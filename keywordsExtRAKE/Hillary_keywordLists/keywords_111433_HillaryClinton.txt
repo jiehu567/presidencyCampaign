@@ -1,0 +1,111 @@
+
+Keyword: bob levinson coming home	score: 14.75
+Keyword: american citizens coming home	score: 13.5
+Keyword: nra gun lobby position	score: 12.8571428571
+Keyword: face big medical costs	score: 12.0833333333
+Keyword: hillary rewarded wall street	score: 11.3611111111
+Keyword: mother emanuel church	score: 9.0
+Keyword: super pac coordinating	score: 9.0
+Keyword: single payer system	score: 9.0
+Keyword: incredibly flattering comment	score: 9.0
+Keyword: super pac founded	score: 9.0
+Keyword: end video clip	score: 9.0
+Keyword: american presidency projectpromote	score: 8.75
+Keyword: affordable care act	score: 8.75
+Keyword: big insurance companies	score: 8.75
+Keyword: nuclear weapons program	score: 8.5
+Keyword: plutonium potential threat	score: 8.33333333333
+Keyword: contentious national debate	score: 8.33333333333
+Keyword: sanders campaign struck back	score: 8.3303030303
+Keyword: wall street interests	score: 8.11111111111
+Keyword: represented wall street	score: 8.11111111111
+Keyword: begin video clip	score: 8.0
+Keyword: continuing military support	score: 8.0
+Keyword: financial industry activities	score: 8.0
+Keyword: affordable health care	score: 7.95
+Keyword: universal health care	score: 7.95
+Keyword: senator sanders ran	score: 7.69696969697
+Keyword: senator sanders moving	score: 7.69696969697
+Keyword: include president obama	score: 7.33333333333
+Keyword: wall street made	score: 7.11111111111
+Keyword: secretary clinton joins	score: 6.69696969697
+Keyword: wall street	score: 5.11111111111
+Keyword: big debate	score: 5.08333333333
+Keyword: financial industry	score: 5.0
+Keyword: medical records	score: 5.0
+Keyword: health care	score: 4.95
+Keyword: gun lobby	score: 4.85714285714
+Keyword: big difference	score: 4.75
+Keyword: heading home	score: 4.75
+Keyword: american crossroads	score: 4.75
+Keyword: senator sanders	score: 4.69696969697
+Keyword: nuclear agreement	score: 4.5
+Keyword: bernie sanders	score: 4.36363636364
+Keyword: madam secretary	score: 4.33333333333
+Keyword: president obama	score: 4.33333333333
+Keyword: spirited debate	score: 4.33333333333
+Keyword: pocket costs	score: 4.33333333333
+Keyword: potential buyer	score: 4.33333333333
+Keyword: american hostages	score: 4.25
+Keyword: health records	score: 4.2
+Keyword: karl rove	score: 4.0
+Keyword: unidentified male	score: 4.0
+Keyword: false charge	score: 4.0
+Keyword: rising cost	score: 4.0
+Keyword: track record	score: 4.0
+Keyword: barney frank	score: 4.0
+Keyword: confuse people	score: 4.0
+Keyword: unfinished questions	score: 4.0
+Keyword: prescription drugs	score: 4.0
+Keyword: lehman brothers	score: 4.0
+Keyword: poured cement	score: 4.0
+Keyword: patient diplomacy	score: 4.0
+Keyword: respective plans	score: 4.0
+Keyword: shadow banking	score: 4.0
+Keyword: vast majority	score: 4.0
+Keyword: marco rubio	score: 4.0
+Keyword: give immunity	score: 4.0
+Keyword: falsely charged	score: 4.0
+Keyword: destroyed centrifuges	score: 4.0
+Keyword: bible study	score: 4.0
+Keyword: investment banks	score: 4.0
+Keyword: supports taking	score: 4.0
+Keyword: smaller donors	score: 4.0
+Keyword: faithful people	score: 4.0
+Keyword: smart diplomacy	score: 4.0
+Keyword: neighboring states	score: 4.0
+Keyword: enriched uranium	score: 4.0
+Keyword: south carolina	score: 4.0
+Keyword: bad idea	score: 4.0
+Keyword: toughest rules	score: 4.0
+Keyword: aggressive behavior	score: 4.0
+Keyword: strongest candidate	score: 4.0
+Keyword: stark contrast	score: 4.0
+Keyword: replace obamacare	score: 4.0
+Keyword: making progress	score: 4.0
+Keyword: donald trump	score: 4.0
+Keyword: lose 90 people	score: 4.0
+Keyword: create incentives	score: 4.0
+Keyword: historic achievement	score: 4.0
+Keyword: unjustly held	score: 4.0
+Keyword: $700 billion bailout	score: 4.0
+Keyword: background check	score: 4.0
+Keyword: gun makers	score: 3.85714285714
+Keyword: gun violence	score: 3.85714285714
+Keyword: prisoners back	score: 3.8
+Keyword: potential problems	score: 3.66666666667
+Keyword: campaign disavowed	score: 3.66666666667
+Keyword: hillary clinton	score: 3.61363636364
+Keyword: find sort	score: 3.5
+Keyword: critical issue	score: 3.5
+Keyword: iowa caucuses	score: 3.5
+Keyword: events yesterday	score: 3.5
+Keyword: ve heard	score: 3.5
+Keyword: strange series	score: 3.5
+Keyword: pursuingâpersistent	score: 3.5
+Keyword: charleston loophole	score: 3.4
+Keyword: online ad	score: 3.33333333333
+Keyword: president george	score: 3.25
+Keyword: ninety percent	score: 3.2
+Keyword: good news	score: 3.1
+Keyword: iowa caucus	score: 3.0

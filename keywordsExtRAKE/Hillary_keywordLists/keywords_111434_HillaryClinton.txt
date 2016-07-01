@@ -1,0 +1,197 @@
+
+Keyword: nbc news/wall street journal/marist polls	score: 21.0
+Keyword: led arms services committee investigation	score: 20.6666666667
+Keyword: led intelligence committee investigation	score: 16.1666666667
+Keyword: ve watched president obama dig	score: 15.5
+Keyword: democratic presidential candidate length	score: 14.7
+Keyword: des moines register poll	score: 14.5
+Keyword: fbi agent robert levinson	score: 14.25
+Keyword: democratic caucus goers identify	score: 13.7
+Keyword: democratic caucus goers identified	score: 13.7
+Keyword: entire chicago police department	score: 12.6
+Keyword: bob levinson coming home	score: 12.5
+Keyword: show strong american leadership	score: 12.2666666667
+Keyword: universal health care plan	score: 11.75
+Keyword: hillary clinton/bernie sanders race	score: 11.3833333333
+Keyword: des moines register	score: 10.5
+Keyword: return bob levinson	score: 9.75
+Keyword: free market economy	score: 9.0
+Keyword: senate finance committee	score: 9.0
+Keyword: fashioned job opportunities	score: 9.0
+Keyword: vigorous jobs agenda	score: 9.0
+Keyword: rescue ambassador stevens	score: 9.0
+Keyword: comprehensive background checks	score: 9.0
+Keyword: 2016 presidential race participants	score: 8.83333333333
+Keyword: mother emanuel church	score: 8.66666666667
+Keyword: american presidency projectpromote	score: 8.6
+Keyword: nuclear weapons program	score: 8.55
+Keyword: comprehensive health analysis	score: 8.5
+Keyword: greatest economic engine	score: 8.5
+Keyword: administer health care	score: 8.5
+Keyword: typical political rhetoric	score: 8.5
+Keyword: security council resolutions	score: 8.41666666667
+Keyword: quinnipiac found sanders	score: 8.25
+Keyword: health insurance program	score: 8.25
+Keyword: gun safety measures	score: 8.125
+Keyword: senator marco rubio	score: 8.1
+Keyword: ballistic missile program	score: 8.08333333333
+Keyword: top campaign aides	score: 8.0
+Keyword: put raising incomes	score: 7.85714285714
+Keyword: end video clip	score: 7.83333333333
+Keyword: bernie sanders calls	score: 7.75
+Keyword: mayor rahm emanuel	score: 7.66666666667
+Keyword: good morningâsecretary clinton	score: 7.60606060606
+Keyword: health care back	score: 7.3
+Keyword: national security threat	score: 7.25
+Keyword: good step forward	score: 7.125
+Keyword: gun show loophole	score: 7.125
+Keyword: begin video clip	score: 7.0
+Keyword: security council sanctions	score: 6.91666666667
+Keyword: neck race including	score: 6.83333333333
+Keyword: republican policies put	score: 6.52380952381
+Keyword: state hillary clinton	score: 6.40606060606
+Keyword: senator sanders called	score: 6.35
+Keyword: governor snyder turned	score: 6.33333333333
+Keyword: robert levinson	score: 6.25
+Keyword: hear people talking	score: 6.25
+Keyword: bernie sanders 59 percent	score: 6.25
+Keyword: justice investigation	score: 5.66666666667
+Keyword: joins clinton campaign	score: 5.60606060606
+Keyword: human services	score: 5.5
+Keyword: barack obama	score: 5.5
+Keyword: health care	score: 5.5
+Keyword: security council	score: 5.41666666667
+Keyword: missile program	score: 5.08333333333
+Keyword: john dickerson time	score: 4.91666666667
+Keyword: bernie sanders	score: 4.75
+Keyword: democratic socialist	score: 4.7
+Keyword: democratic debate	score: 4.7
+Keyword: mayor emanuel	score: 4.66666666667
+Keyword: american community	score: 4.6
+Keyword: american public	score: 4.6
+Keyword: american hostage	score: 4.6
+Keyword: national level	score: 4.5
+Keyword: economic policy	score: 4.5
+Keyword: end load	score: 4.5
+Keyword: showing neck	score: 4.5
+Keyword: complete department	score: 4.5
+Keyword: hillary clinton	score: 4.40606060606
+Keyword: senator sanders	score: 4.35
+Keyword: aggressive race	score: 4.33333333333
+Keyword: governor snyder	score: 4.33333333333
+Keyword: rick snyder	score: 4.33333333333
+Keyword: political back	score: 4.3
+Keyword: actual plan	score: 4.25
+Keyword: strong support	score: 4.25
+Keyword: sanders supporter	score: 4.25
+Keyword: nuclear agreement	score: 4.22857142857
+Keyword: gun manufacturers	score: 4.125
+Keyword: gun violence	score: 4.125
+Keyword: gun makers	score: 4.125
+Keyword: gun industry	score: 4.125
+Keyword: good morning	score: 4.125
+Keyword: gun control	score: 4.125
+Keyword: good news	score: 4.125
+Keyword: senatorâexcuse	score: 4.1
+Keyword: bush administration	score: 4.0
+Keyword: regret deeply	score: 4.0
+Keyword: long time	score: 4.0
+Keyword: 2016 sunday cbs	score: 4.0
+Keyword: destabilize governments	score: 4.0
+Keyword: plutonium reactors	score: 4.0
+Keyword: mutually reinforcing	score: 4.0
+Keyword: goodness sakes	score: 4.0
+Keyword: bible study	score: 4.0
+Keyword: reasonable steps	score: 4.0
+Keyword: laquan mcdonald	score: 4.0
+Keyword: law enforcement	score: 4.0
+Keyword: education development	score: 4.0
+Keyword: real focus	score: 4.0
+Keyword: controversy involves	score: 4.0
+Keyword: castro brothers	score: 4.0
+Keyword: financial responsibility	score: 4.0
+Keyword: federal government	score: 4.0
+Keyword: malley supporter	score: 4.0
+Keyword: reasonable restrictions	score: 4.0
+Keyword: bowe bergdahl	score: 4.0
+Keyword: persistent diplomacy	score: 4.0
+Keyword: poured cement	score: 4.0
+Keyword: proverbial hawk	score: 4.0
+Keyword: huge ditch	score: 4.0
+Keyword: commonsense approach	score: 4.0
+Keyword: federal intervention	score: 4.0
+Keyword: english publication	score: 4.0
+Keyword: middle east	score: 4.0
+Keyword: destroying centrifuges	score: 4.0
+Keyword: jay helton	score: 4.0
+Keyword: fly zone	score: 4.0
+Keyword: natasha newcomb	score: 4.0
+Keyword: foreign countries	score: 4.0
+Keyword: legitimate questions	score: 4.0
+Keyword: sally wilson	score: 4.0
+Keyword: south carolina	score: 4.0
+Keyword: ideologically fit	score: 4.0
+Keyword: total reform	score: 4.0
+Keyword: prisoner exchange	score: 4.0
+Keyword: clean energy	score: 4.0
+Keyword: systemic racism	score: 4.0
+Keyword: rights reserved     â  7	score: 4.0
+Keyword: sound bites	score: 4.0
+Keyword: vast majority	score: 4.0
+Keyword: terrorist groups	score: 4.0
+Keyword: bottom line	score: 4.0
+Keyword: important news	score: 4.0
+Keyword: join members	score: 4.0
+Keyword: enriched uranium	score: 4.0
+Keyword: threaten israel	score: 4.0
+Keyword: madam secretary	score: 3.875
+Keyword: put forward	score: 3.85714285714
+Keyword: charleston loophole	score: 3.7619047619
+Keyword: unlawfully held	score: 3.75
+Keyword: unjustly held	score: 3.75
+Keyword: ve felt	score: 3.66666666667
+Keyword: payer system	score: 3.66666666667
+Keyword: world safer	score: 3.66666666667
+Keyword: send americans	score: 3.66666666667
+Keyword: legal immunity	score: 3.66666666667
+Keyword: dangerous world	score: 3.66666666667
+Keyword: dismantle obamacare	score: 3.66666666667
+Keyword: united states	score: 3.66666666667
+Keyword: good sign	score: 3.625
+Keyword: clinton supporter	score: 3.60606060606
+Keyword: chelsea clinton	score: 3.60606060606
+Keyword: bill clinton	score: 3.60606060606
+Keyword: clinton campaign	score: 3.60606060606
+Keyword: clinton leading	score: 3.60606060606
+Keyword: date plan	score: 3.58333333333
+Keyword: experts thought	score: 3.5
+Keyword: lead levels	score: 3.5
+Keyword: public life	score: 3.5
+Keyword: weeks ago	score: 3.5
+Keyword: 25 percent tax	score: 3.5
+Keyword: buying guns	score: 3.5
+Keyword: real issue	score: 3.5
+Keyword: white houseâ	score: 3.5
+Keyword: fire lit	score: 3.5
+Keyword: raised questions	score: 3.5
+Keyword: big lead	score: 3.5
+Keyword: horrible consequences	score: 3.5
+Keyword: lady supported	score: 3.5
+Keyword: single year	score: 3.5
+Keyword: firm results	score: 3.5
+Keyword: shooting incident	score: 3.5
+Keyword: important issues	score: 3.5
+Keyword: âsecretary clinton	score: 3.48106060606
+Keyword: secretary clinton	score: 3.48106060606
+Keyword: americans back	score: 3.46666666667
+Keyword: iranian agreement	score: 3.42857142857
+Keyword: charleston loopholes	score: 3.42857142857
+Keyword: stay ahead	score: 3.33333333333
+Keyword: finally asked	score: 3.33333333333
+Keyword: past week	score: 3.33333333333
+Keyword: potential pause	score: 3.33333333333
+Keyword: amazing things	score: 3.33333333333
+Keyword: started calling	score: 3.33333333333
+Keyword: nation decision	score: 3.33333333333
+Keyword: win iowa	score: 3.28571428571
+Keyword: support proxies	score: 3.25

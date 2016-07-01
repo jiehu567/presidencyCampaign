@@ -1,0 +1,113 @@
+
+Keyword: robust community banking system	score: 13.0833333333
+Keyword: regional banking system	score: 9.58333333333
+Keyword: shadow banking sector	score: 9.25
+Keyword: hedge fund sector	score: 9.0
+Keyword: entire business model	score: 9.0
+Keyword: biggest counterterrorism decision	score: 9.0
+Keyword: jihadist terrorism starting	score: 9.0
+Keyword: good banking system	score: 8.98333333333
+Keyword: al qaeda attacked	score: 8.5
+Keyword: foreign policy section	score: 8.5
+Keyword: foreign policy issues	score: 8.5
+Keyword: disrupting economic activity	score: 8.5
+Keyword: american presidency projectpromote	score: 8.25
+Keyword: wall street works	score: 7.66666666667
+Keyword: wall street background	score: 7.66666666667
+Keyword: remind young women	score: 7.66666666667
+Keyword: foreign policy network	score: 7.5
+Keyword: advising senator sanders	score: 7.5
+Keyword: senator sanders called	score: 7.5
+Keyword: good jobs created	score: 7.4
+Keyword: state madeleine albright	score: 7.33333333333
+Keyword: complex global economy	score: 6.875
+Keyword: al qaeda â todd	score: 6.59523809524
+Keyword: understand wall street	score: 6.16666666667
+Keyword: iraq war â clinton	score: 5.50724637681
+Keyword: foreign policy	score: 5.5
+Keyword: al qaeda	score: 5.5
+Keyword: wall street	score: 4.66666666667
+Keyword: senator sanders	score: 4.5
+Keyword: complex world	score: 4.5
+Keyword: bernie sanders	score: 4.4
+Keyword: good actors	score: 4.4
+Keyword: good grief	score: 4.4
+Keyword: global economy	score: 4.375
+Keyword: iraq war	score: 4.33333333333
+Keyword: american economy	score: 4.125
+Keyword: senator obama	score: 4.1
+Keyword: senator mccain	score: 4.1
+Keyword: public life	score: 4.0
+Keyword: pay attention	score: 4.0
+Keyword: north korea	score: 4.0
+Keyword: rang differently	score: 4.0
+Keyword: perfectly free	score: 4.0
+Keyword: firm foundation	score: 4.0
+Keyword: russian aggression	score: 4.0
+Keyword: missile tests	score: 4.0
+Keyword: latest incarnations	score: 4.0
+Keyword: gender lines	score: 4.0
+Keyword: bin laden	score: 4.0
+Keyword: democratic woman	score: 4.0
+Keyword: incomes rising	score: 4.0
+Keyword: economic problems	score: 4.0
+Keyword: single digits	score: 4.0
+Keyword: islam means	score: 4.0
+Keyword: starbucks cups	score: 4.0
+Keyword: previous presidents	score: 4.0
+Keyword: world functioned	score: 4.0
+Keyword: national security	score: 4.0
+Keyword: treasury secretaries	score: 4.0
+Keyword: negotiating table	score: 4.0
+Keyword: saddam hussein	score: 4.0
+Keyword: big state	score: 4.0
+Keyword: credit access	score: 4.0
+Keyword: special place	score: 4.0
+Keyword: white house	score: 4.0
+Keyword: extreme statement	score: 4.0
+Keyword: pointed remark	score: 4.0
+Keyword: super bowl	score: 4.0
+Keyword: mayor asked	score: 4.0
+Keyword: obama administration	score: 4.0
+Keyword: donald trump	score: 4.0
+Keyword: middle east	score: 4.0
+Keyword: damaged irreparably	score: 4.0
+Keyword: big deficit	score: 4.0
+Keyword: bad actors	score: 4.0
+Keyword: good commitment	score: 3.73333333333
+Keyword: treasury secretary	score: 3.66666666667
+Keyword: treasury secretary â	score: 3.66666666667
+Keyword: potential problems	score: 3.5
+Keyword: big difference	score: 3.5
+Keyword: totally respect	score: 3.5
+Keyword: respond directly	score: 3.5
+Keyword: iran agreement	score: 3.5
+Keyword: big banks	score: 3.5
+Keyword: direct line	score: 3.5
+Keyword: job requires	score: 3.5
+Keyword: bigger set	score: 3.5
+Keyword: guys wanted	score: 3.5
+Keyword: economy moving	score: 3.375
+Keyword: ve lived	score: 3.36363636364
+Keyword: ve made	score: 3.36363636364
+Keyword: ve heard	score: 3.36363636364
+Keyword: life experience	score: 3.33333333333
+Keyword: iraq vote	score: 3.25
+Keyword: hard conclusion	score: 3.25
+Keyword: past years	score: 3.2
+Keyword: hillary clinton	score: 3.17391304348
+Keyword: secretary clinton	score: 2.84057971014
+Keyword: isis today	score: 2.75
+Keyword: great time	score: 2.58333333333
+Keyword: hampshire voters	score: 2.53333333333
+Keyword: community	score: 2.5
+Keyword: people supporting	score: 2.45833333333
+Keyword: madeleine	score: 2.33333333333
+Keyword: senator	score: 2.1
+Keyword: network	score: 2.0
+Keyword: state	score: 2.0
+Keyword: created	score: 2.0
+Keyword: iraq	score: 2.0
+Keyword: economy	score: 1.875
+Keyword: women	score: 1.66666666667
+Keyword: secretary	score: 1.66666666667

@@ -1,0 +1,257 @@
+
+Keyword: includes bolstering israeli missile defenses	score: 22.3939393939
+Keyword: middle east presents enormous challenge	score: 21.4
+Keyword: iron dome missile defense system	score: 21.3333333333
+Keyword: israel faces brutal terrorist stabbings	score: 18.22
+Keyword: recent ballistic missile tests	score: 16.1666666667
+Keyword: suicide bombers target theinnocent	score: 16.0
+Keyword: palestinian finance ministers aiming	score: 14.4285714286
+Keyword: israeli hospital rooms holding	score: 14.2272727273
+Keyword: convene prime minister netanyahu	score: 14.1666666667
+Keyword: respected global leader committed	score: 13.0666666667
+Keyword: american citizens unjustly held	score: 12.875
+Keyword: iranian revolutionary guard corps	score: 12.5
+Keyword: outsource middle east security	score: 12.0470588235
+Keyword: israelis face momentous choices	score: 11.9090909091
+Keyword: iron dome saved	score: 11.0
+Keyword: voices inside iran calling	score: 10.9
+Keyword: prime minister netanyahu	score: 10.1666666667
+Keyword: sophisticated defense technology	score: 9.66666666667
+Keyword: recent constructive meetings	score: 9.5
+Keyword: israeli prime minister	score: 9.39393939394
+Keyword: tunnel detection technology	score: 9.0
+Keyword: start making decisions	score: 9.0
+Keyword: qualitative military edge	score: 9.0
+Keyword: bring positive change	score: 9.0
+Keyword: israeli tech companies	score: 8.72727272727
+Keyword: demonized israeli scientists	score: 8.72727272727
+Keyword: israeli dual nationals	score: 8.72727272727
+Keyword: increasingly sophisticated rockets	score: 8.66666666667
+Keyword: avoiding damaging actions	score: 8.66666666667
+Keyword: government decades ago	score: 8.66666666667
+Keyword: vital national interests	score: 8.5
+Keyword: holding tehran accountable	score: 8.5
+Keyword: fund palestinian terrorists	score: 8.42857142857
+Keyword: american presidency projectpromote	score: 8.375
+Keyword: american troops stationed	score: 8.375
+Keyword: acquire nuclear weapons	score: 8.33333333333
+Keyword: illegal arms transfers	score: 8.33333333333
+Keyword: prevent arms smuggling	score: 8.33333333333
+Keyword: enforce existing sanctions	score: 8.28571428571
+Keyword: stop celebrating terrorists	score: 8.2
+Keyword: stop paying rewards	score: 8.2
+Keyword: tackle shared challenges	score: 8.16666666667
+Keyword: year defense memorandum	score: 8.16666666667
+Keyword: secure middle east	score: 8.15
+Keyword: threats israel faces	score: 8.12
+Keyword: human rights violations	score: 8.0
+Keyword: deep emotional connection	score: 8.0
+Keyword: enduring national interest	score: 8.0
+Keyword: young american veteran	score: 7.875
+Keyword: white house balcony	score: 7.83333333333
+Keyword: nobel peace prize	score: 7.72727272727
+Keyword: hamas rockets began	score: 7.66666666667
+Keyword: ensure israel maintains	score: 7.62
+Keyword: israel forearly consultations	score: 7.62
+Keyword: key arab states	score: 7.5
+Keyword: impose crippling sanctions	score: 7.48571428571
+Keyword: impose additional sanctions	score: 7.48571428571
+Keyword: continue fostering relationships	score: 7.4
+Keyword: taking positive actions	score: 7.33333333333
+Keyword: israeli young people	score: 7.22727272727
+Keyword: impose real consequences	score: 7.2
+Keyword: stop inciting violence	score: 7.2
+Keyword: israelis face currents	score: 6.90909090909
+Keyword: face peace talks	score: 6.63636363636
+Keyword: democratic jewish state	score: 6.46666666667
+Keyword: shared democratic values	score: 6.46666666667
+Keyword: middle east	score: 6.4
+Keyword: israelis stay true	score: 6.33333333333
+Keyword: israel 35 years ago	score: 6.28666666667
+Keyword: potential breakout time	score: 6.28571428571
+Keyword: supporting peace efforts	score: 6.22727272727
+Keyword: revolutionary guard	score: 6.0
+Keyword: ground security cooperation	score: 5.64705882353
+Keyword: work defending israel	score: 5.19142857143
+Keyword: global leader	score: 5.06666666667
+Keyword: palestinian terrorist	score: 5.02857142857
+Keyword: voices heard	score: 5.0
+Keyword: enduring interest	score: 5.0
+Keyword: white house	score: 4.83333333333
+Keyword: israeli politics	score: 4.72727272727
+Keyword: weeks ago	score: 4.66666666667
+Keyword: supreme leader	score: 4.66666666667
+Keyword: rockets rain	score: 4.66666666667
+Keyword: terrorist bombs	score: 4.6
+Keyword: terrorist organization	score: 4.6
+Keyword: iranian people	score: 4.5
+Keyword: democratic homeland	score: 4.5
+Keyword: iranian provocations	score: 4.5
+Keyword: arab league	score: 4.5
+Keyword: young people	score: 4.5
+Keyword: iranian prisons	score: 4.5
+Keyword: evolving threats	score: 4.5
+Keyword: real foundation	score: 4.5
+Keyword: palestinian economy	score: 4.42857142857
+Keyword: palestinian issue	score: 4.42857142857
+Keyword: palestinian authority	score: 4.42857142857
+Keyword: global coalition	score: 4.4
+Keyword: major american	score: 4.375
+Keyword: nuclear program	score: 4.33333333333
+Keyword: white supremacists	score: 4.33333333333
+Keyword: nuclear weapon	score: 4.33333333333
+Keyword: democratic state	score: 4.3
+Keyword: sanctions movement	score: 4.28571428571
+Keyword: toughest sanctions	score: 4.28571428571
+Keyword: condemn actions	score: 4.16666666667
+Keyword: jewish people	score: 4.16666666667
+Keyword: jewish organizations	score: 4.16666666667
+Keyword: global peace	score: 4.12727272727
+Keyword: terrorist attacks	score: 4.1
+Keyword: palestinian leaders	score: 4.09523809524
+Keyword: israeli lives	score: 4.06060606061
+Keyword: bold steps	score: 4.0
+Keyword: lose forever	score: 4.0
+Keyword: brookings institution	score: 4.0
+Keyword: aipac members	score: 4.0
+Keyword: safe return	score: 4.0
+Keyword: rising tide	score: 4.0
+Keyword: diplomatic architecture	score: 4.0
+Keyword: robert levinson	score: 4.0
+Keyword: stopped spinning	score: 4.0
+Keyword: converging interests	score: 4.0
+Keyword: encouraging violence	score: 4.0
+Keyword: clear consequences	score: 4.0
+Keyword: neutrality helps	score: 4.0
+Keyword: joint chiefs	score: 4.0
+Keyword: jaffa port	score: 4.0
+Keyword: wide ark	score: 4.0
+Keyword: international community	score: 4.0
+Keyword: silicon valley	score: 4.0
+Keyword: playing coy	score: 4.0
+Keyword: radical jihadists	score: 4.0
+Keyword: verification measures	score: 4.0
+Keyword: residential neighborhoods	score: 4.0
+Keyword: current climate	score: 4.0
+Keyword: greater cooperation	score: 4.0
+Keyword: everyday people	score: 4.0
+Keyword: illicit behaviors	score: 4.0
+Keyword: foreign policy	score: 4.0
+Keyword: end immediately	score: 4.0
+Keyword: dangerously wrong	score: 4.0
+Keyword: alarming boycott	score: 4.0
+Keyword: ultimately supported	score: 4.0
+Keyword: answered firmly	score: 4.0
+Keyword: front lines	score: 4.0
+Keyword: extremist regime	score: 4.0
+Keyword: shrapnel left	score: 4.0
+Keyword: parents worry	score: 4.0
+Keyword: reportedly stepping	score: 4.0
+Keyword: doctors describe	score: 4.0
+Keyword: muslims entering	score: 4.0
+Keyword: rightly focused	score: 4.0
+Keyword: unprecedented chaos	score: 4.0
+Keyword: pride parade	score: 4.0
+Keyword: effectiveness firsthand	score: 4.0
+Keyword: vibrant culture	score: 4.0
+Keyword: diplomatic cooperation	score: 4.0
+Keyword: elie wiesel	score: 4.0
+Keyword: moral foundations	score: 4.0
+Keyword: exiles seeking	score: 4.0
+Keyword: regional context	score: 4.0
+Keyword: smallest violations	score: 4.0
+Keyword: growing effort	score: 4.0
+Keyword: tel aviv	score: 4.0
+Keyword: yitzhak rabin	score: 4.0
+Keyword: mordecai reminded	score: 4.0
+Keyword: big difference	score: 4.0
+Keyword: aipac conferences	score: 4.0
+Keyword: dark chapters	score: 4.0
+Keyword: golda meir	score: 4.0
+Keyword: words declaring	score: 4.0
+Keyword: previous generations	score: 4.0
+Keyword: international order	score: 4.0
+Keyword: negotiating table	score: 4.0
+Keyword: campaign trail	score: 4.0
+Keyword: capable partner	score: 4.0
+Keyword: enriched uranium	score: 4.0
+Keyword: local forces	score: 4.0
+Keyword: direct negotiations	score: 4.0
+Keyword: civilized society	score: 4.0
+Keyword: shared values	score: 3.96666666667
+Keyword: sanctions back	score: 3.95238095238
+Keyword: immediately face	score: 3.90909090909
+Keyword: direct face	score: 3.90909090909
+Keyword: american leadership	score: 3.875
+Keyword: united states	score: 3.85714285714
+Keyword: stay silent	score: 3.83333333333
+Keyword: stay strong	score: 3.83333333333
+Keyword: secure homeland	score: 3.75
+Keyword: fighting back	score: 3.66666666667
+Keyword: college students	score: 3.66666666667
+Keyword: imagine progress	score: 3.66666666667
+Keyword: great leaders	score: 3.66666666667
+Keyword: existential danger	score: 3.66666666667
+Keyword: danger gathers	score: 3.66666666667
+Keyword: shared past	score: 3.66666666667
+Keyword: strong jewish	score: 3.66666666667
+Keyword: intense security	score: 3.64705882353
+Keyword: security council	score: 3.64705882353
+Keyword: expanding security	score: 3.64705882353
+Keyword: water security	score: 3.64705882353
+Keyword: energy security	score: 3.64705882353
+Keyword: delegitimize israel	score: 3.62
+Keyword: attack israel	score: 3.62
+Keyword: annihilate israel	score: 3.62
+Keyword: israel great	score: 3.62
+Keyword: guarantee israel	score: 3.62
+Keyword: undermine israel	score: 3.62
+Keyword: leading israel	score: 3.62
+Keyword: nations grow	score: 3.6
+Keyword: nations built	score: 3.6
+Keyword: work closely	score: 3.57142857143
+Keyword: israel face	score: 3.52909090909
+Keyword: refused entry	score: 3.5
+Keyword: special responsibility	score: 3.5
+Keyword: liberty exists	score: 3.5
+Keyword: good life	score: 3.5
+Keyword: ve listened	score: 3.5
+Keyword: unshakable commitment	score: 3.5
+Keyword: personal commitment	score: 3.5
+Keyword: rebuild trust	score: 3.5
+Keyword: things aren	score: 3.5
+Keyword: support helped	score: 3.5
+Keyword: continued aggression	score: 3.5
+Keyword: working closely	score: 3.5
+Keyword: ve returned	score: 3.5
+Keyword: steady hands	score: 3.5
+Keyword: ve spoken	score: 3.5
+Keyword: vehicle attacks	score: 3.5
+Keyword: term survival	score: 3.5
+Keyword: 000 jews aboard	score: 3.5
+Keyword: strong monitoring	score: 3.5
+Keyword: oval office	score: 3.5
+Keyword: broader strategy	score: 3.5
+Keyword: 12 million immigrants	score: 3.5
+Keyword: raucous debate	score: 3.5
+Keyword: clear message	score: 3.5
+Keyword: people level	score: 3.5
+Keyword: firm commitment	score: 3.5
+Keyword: block efforts	score: 3.5
+Keyword: remain convinced	score: 3.5
+Keyword: silence encourages	score: 3.5
+Keyword: vigorous enforcement	score: 3.5
+Keyword: level depends	score: 3.5
+Keyword: seize fire	score: 3.5
+Keyword: wednesday evening	score: 3.5
+Keyword: israelis deserve	score: 3.5
+Keyword: israelis doubt	score: 3.5
+Keyword: economic ties	score: 3.5
+Keyword: iran acquiring	score: 3.4
+Keyword: isis affiliate	score: 3.33333333333
+Keyword: vigorously oppose	score: 3.33333333333
+Keyword: make inroads	score: 3.28571428571
+Keyword: important role	score: 3.25
+Keyword: common adversaries	score: 3.25
+Keyword: negotiated peace	score: 3.22727272727
+Keyword: promote progress	score: 3.16666666667

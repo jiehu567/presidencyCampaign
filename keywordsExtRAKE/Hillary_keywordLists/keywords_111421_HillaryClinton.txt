@@ -1,0 +1,78 @@
+
+Keyword: national tv interview	score: 9.0
+Keyword: technically capable person	score: 9.0
+Keyword: american presidency projectpromote	score: 8.33333333333
+Keyword: senator bernie sanders	score: 8.0
+Keyword: state department system	score: 7.16666666667
+Keyword: senator sanders	score: 5.0
+Keyword: american voter	score: 4.33333333333
+Keyword: government system	score: 4.16666666667
+Keyword: jake tapper	score: 4.0
+Keyword: literally true	score: 4.0
+Keyword: short term	score: 4.0
+Keyword: full authority	score: 4.0
+Keyword: voters sort	score: 4.0
+Keyword: previous secretaries	score: 4.0
+Keyword: competitive race	score: 4.0
+Keyword: dana bash	score: 4.0
+Keyword: raising taxes	score: 4.0
+Keyword: sounds pretty	score: 4.0
+Keyword: vast majority	score: 4.0
+Keyword: republican party	score: 4.0
+Keyword: huge crowds	score: 4.0
+Keyword: populist message	score: 4.0
+Keyword: economic proposals	score: 4.0
+Keyword: recent poll	score: 4.0
+Keyword: substantially higher	score: 4.0
+Keyword: committed supporter	score: 4.0
+Keyword: medium term	score: 4.0
+Keyword: deep breath	score: 4.0
+Keyword: economy faster	score: 4.0
+Keyword: big crew	score: 4.0
+Keyword: long term	score: 4.0
+Keyword: general area	score: 4.0
+Keyword: bit awkward	score: 4.0
+Keyword: big corporations	score: 4.0
+Keyword: donald trump	score: 4.0
+Keyword: responding immediately	score: 4.0
+Keyword: american people	score: 3.70833333333
+Keyword: jeb bush	score: 3.66666666667
+Keyword: congressional democrats	score: 3.5
+Keyword: recent comments	score: 3.5
+Keyword: personal server	score: 3.5
+Keyword: great confidence	score: 3.5
+Keyword: mail practices	score: 3.5
+Keyword: bad blood	score: 3.5
+Keyword: wealthy americans	score: 3.5
+Keyword: mexican immigrants	score: 3.5
+Keyword: people committed	score: 3.375
+Keyword: people speak	score: 3.375
+Keyword: economic policies	score: 3.33333333333
+Keyword: thought process	score: 3.33333333333
+Keyword: voters make	score: 3.33333333333
+Keyword: raise taxes	score: 3.33333333333
+Keyword: clinton foundation	score: 3.3
+Keyword: giving clinton	score: 3.3
+Keyword: clinton insisted	score: 3.3
+Keyword: clinton race	score: 3.3
+Keyword: hillary clinton	score: 3.3
+Keyword: senate campaign	score: 3.25
+Keyword: government knew	score: 3.16666666667
+Keyword: secretary clinton	score: 2.8
+Keyword: brianna keilar	score: 2.57142857143
+Keyword: government	score: 1.66666666667
+Keyword: state	score: 1.66666666667
+Keyword: bush	score: 1.66666666667
+Keyword: democrats	score: 1.5
+Keyword: personal	score: 1.5
+Keyword: bad	score: 1.5
+Keyword: secretary	score: 1.5
+Keyword: 10 americans	score: 1.5
+Keyword: comments	score: 1.5
+Keyword: knew	score: 1.5
+Keyword: great	score: 1.5
+Keyword: mail	score: 1.5
+Keyword: immigrants	score: 1.5
+Keyword: brianna	score: 1.5
+Keyword: people	score: 1.375
+Keyword: raise	score: 1.33333333333

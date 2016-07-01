@@ -1,0 +1,183 @@
+
+Keyword: imprisoning low level offenders	score: 14.6666666667
+Keyword: addressed systemic racism	score: 9.0
+Keyword: universal background checks	score: 9.0
+Keyword: clean renewable energy	score: 9.0
+Keyword: civil rights division	score: 9.0
+Keyword: mental health challenges	score: 8.66666666667
+Keyword: mental health problems	score: 8.5
+Keyword: affordable care act	score: 8.33333333333
+Keyword: robust diversionary program	score: 8.0
+Keyword: special interests lobby	score: 8.0
+Keyword: offered free stuff	score: 8.0
+Keyword: american presidency projectpromote	score: 8.0
+Keyword: senior cabinet member	score: 8.0
+Keyword: black lives matter	score: 8.0
+Keyword: ve learned lessons	score: 7.75
+Keyword: vice president biden	score: 7.7
+Keyword: domestic violence abuser	score: 7.66666666667
+Keyword: substance abuse challenges	score: 7.66666666667
+Keyword: criminal justice reform	score: 7.66666666667
+Keyword: barack obama president	score: 7.55714285714
+Keyword: president obama commissioned	score: 7.55714285714
+Keyword: president obama speaks	score: 7.55714285714
+Keyword: restore fundamental faith	score: 7.5
+Keyword: painting crack houses	score: 7.33333333333
+Keyword: hillary clinton presidency	score: 7.18666666667
+Keyword: omnibus crime bill	score: 7.13333333333
+Keyword: president obama inherited	score: 7.05714285714
+Keyword: smart gun prevention	score: 7.0
+Keyword: president hillary clinton	score: 6.72
+Keyword: supported president obama	score: 6.55714285714
+Keyword: work full time	score: 6.34545454545
+Keyword: police reform question	score: 6.29166666667
+Keyword: support hillary clinton	score: 6.18666666667
+Keyword: hard working americans	score: 6.13888888889
+Keyword: make college affordable	score: 5.58333333333
+Keyword: hard working people	score: 5.56746031746
+Keyword: obama presidency	score: 5.02380952381
+Keyword: substance abuse	score: 5.0
+Keyword: vice president	score: 4.7
+Keyword: real challenges	score: 4.66666666667
+Keyword: violent offenders	score: 4.66666666667
+Keyword: repeat offenders	score: 4.66666666667
+Keyword: president obama	score: 4.55714285714
+Keyword: restore trust	score: 4.5
+Keyword: husband inherited	score: 4.5
+Keyword: robust agenda	score: 4.5
+Keyword: real problems	score: 4.5
+Keyword: infrastructure program	score: 4.5
+Keyword: crack houses	score: 4.33333333333
+Keyword: police reform	score: 4.29166666667
+Keyword: senator obama	score: 4.15714285714
+Keyword: crime bill	score: 4.13333333333
+Keyword: matters looked	score: 4.0
+Keyword: mayor dinkins	score: 4.0
+Keyword: basically begin	score: 4.0
+Keyword: tough decisions	score: 4.0
+Keyword: obvious reasons	score: 4.0
+Keyword: stalking prejudice	score: 4.0
+Keyword: fellow americans	score: 4.0
+Keyword: crack babies	score: 4.0
+Keyword: limp bias	score: 4.0
+Keyword: human life	score: 4.0
+Keyword: great city	score: 4.0
+Keyword: sunday mornings	score: 4.0
+Keyword: republican candidates	score: 4.0
+Keyword: bad actors	score: 4.0
+Keyword: presidential candidate	score: 4.0
+Keyword: tremendous pressure	score: 4.0
+Keyword: legitimate aspirations	score: 4.0
+Keyword: minimum wage	score: 4.0
+Keyword: human nature	score: 4.0
+Keyword: driving edges	score: 4.0
+Keyword: federal government	score: 4.0
+Keyword: infrastructure bank	score: 4.0
+Keyword: mitt romney	score: 4.0
+Keyword: looming question	score: 4.0
+Keyword: commercial break	score: 4.0
+Keyword: republican predecessors	score: 4.0
+Keyword: great recession	score: 4.0
+Keyword: columbia university	score: 4.0
+Keyword: worst instincts	score: 4.0
+Keyword: jeb bush	score: 4.0
+Keyword: large measure	score: 4.0
+Keyword: fair shot	score: 4.0
+Keyword: separate camps	score: 4.0
+Keyword: great extent	score: 4.0
+Keyword: mass incarceration	score: 4.0
+Keyword: equal pay	score: 4.0
+Keyword: climate change	score: 4.0
+Keyword: worst thing	score: 4.0
+Keyword: poor ideas	score: 4.0
+Keyword: distinguishing factors	score: 4.0
+Keyword: republican side	score: 4.0
+Keyword: justice system	score: 4.0
+Keyword: days ago	score: 4.0
+Keyword: long list	score: 4.0
+Keyword: donald trump	score: 4.0
+Keyword: create millions	score: 4.0
+Keyword: foremost supporters	score: 4.0
+Keyword: fully staffed	score: 4.0
+Keyword: profit sharing	score: 4.0
+Keyword: democratic side	score: 4.0
+Keyword: flamboyant front	score: 4.0
+Keyword: justice department	score: 4.0
+Keyword: shared broadly	score: 4.0
+Keyword: body cameras	score: 4.0
+Keyword: assault weapons	score: 4.0
+Keyword: fundamental misunderstanding	score: 4.0
+Keyword: literally fallen	score: 4.0
+Keyword: bill clinton	score: 3.85333333333
+Keyword: great senator	score: 3.8
+Keyword: senator sanders	score: 3.8
+Keyword: long time	score: 3.8
+Keyword: prevent crime	score: 3.8
+Keyword: american people	score: 3.7619047619
+Keyword: ve accomplished	score: 3.75
+Keyword: ve met	score: 3.75
+Keyword: president clinton	score: 3.72
+Keyword: hard time	score: 3.68888888889
+Keyword: good set	score: 3.66666666667
+Keyword: made aware	score: 3.66666666667
+Keyword: good ideas	score: 3.66666666667
+Keyword: great secretary	score: 3.66666666667
+Keyword: police officers	score: 3.625
+Keyword: police officer	score: 3.625
+Keyword: working women	score: 3.58333333333
+Keyword: equal work	score: 3.54545454545
+Keyword: clinton plan	score: 3.52
+Keyword: clinton administration	score: 3.52
+Keyword: year calling	score: 3.5
+Keyword: lgbt community	score: 3.5
+Keyword: important statement	score: 3.5
+Keyword: longer amusing	score: 3.5
+Keyword: profitability doesn	score: 3.5
+Keyword: 18 million votes	score: 3.5
+Keyword: big ditch	score: 3.5
+Keyword: policing commission	score: 3.5
+Keyword: early 1990s	score: 3.5
+Keyword: protect citizens	score: 3.5
+Keyword: hampshire primary	score: 3.5
+Keyword: equal treatment	score: 3.5
+Keyword: fast moving	score: 3.5
+Keyword: reverend al	score: 3.5
+Keyword: makes sense	score: 3.5
+Keyword: great depression	score: 3.5
+Keyword: feel safe	score: 3.5
+Keyword: democratic debates	score: 3.5
+Keyword: hard work	score: 3.43434343434
+Keyword: people forget	score: 3.42857142857
+Keyword: oppresses people	score: 3.42857142857
+Keyword: deadly people	score: 3.42857142857
+Keyword: people begin	score: 3.42857142857
+Keyword: iowa caucus	score: 3.41666666667
+Keyword: ve made	score: 3.41666666667
+Keyword: hard path	score: 3.38888888889
+Keyword: raise incomes	score: 3.33333333333
+Keyword: changing behaviors	score: 3.33333333333
+Keyword: turn back	score: 3.28571428571
+Keyword: ve heard	score: 3.25
+Keyword: lose iowa	score: 3.25
+Keyword: country rise	score: 3.22222222222
+Keyword: country shows	score: 3.22222222222
+Keyword: families understand	score: 3.2
+Keyword: poor communities	score: 3.2
+Keyword: secretary clinton	score: 3.18666666667
+Keyword: unstated views	score: 3.16666666667
+Keyword: republicans rejecting	score: 3.14285714286
+Keyword: past history	score: 3.0
+Keyword: joining gangs	score: 3.0
+Keyword: give people	score: 2.7619047619
+Keyword: people didn	score: 2.7619047619
+Keyword: start kind	score: 2.75
+Keyword: people back	score: 2.71428571429
+Keyword: build people	score: 2.67857142857
+Keyword: affordable	score: 2.33333333333
+Keyword: working	score: 2.25
+Keyword: president	score: 2.2
+Keyword: fundamental	score: 2.0
+Keyword: free	score: 2.0
+Keyword: americans	score: 2.0
+Keyword: interests	score: 2.0
+Keyword: supported	score: 2.0

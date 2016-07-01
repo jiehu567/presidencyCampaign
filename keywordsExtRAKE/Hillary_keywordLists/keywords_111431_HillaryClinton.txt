@@ -1,0 +1,110 @@
+
+Keyword: planned parenthood action fund	score: 15.0
+Keyword: personal health care decisions	score: 14.0
+Keyword: called shadow banking industry	score: 11.6666666667
+Keyword: defund planned parenthood	score: 10.0
+Keyword: american presidency projectpromote	score: 9.0
+Keyword: making america safe	score: 9.0
+Keyword: defend marriage equality	score: 8.66666666667
+Keyword: pretty ugly exchange	score: 8.5
+Keyword: handling classified material	score: 8.4
+Keyword: general election opponent	score: 8.0
+Keyword: wall street journal	score: 7.83333333333
+Keyword: wall street policy	score: 7.83333333333
+Keyword: including wall street	score: 7.83333333333
+Keyword: stay pretty focused	score: 7.5
+Keyword: defend voter rights	score: 7.33333333333
+Keyword: appropriately transmitted unclassified	score: 7.16666666667
+Keyword: state department personal	score: 7.125
+Keyword: treated classified information	score: 7.11428571429
+Keyword: sending classified information	score: 7.11428571429
+Keyword: represented wall street	score: 6.83333333333
+Keyword: president obama called	score: 6.41666666667
+Keyword: state hillary clinton	score: 6.20833333333
+Keyword: gun lobby restrictions	score: 6.01666666667
+Keyword: senator sanders voted	score: 5.94318181818
+Keyword: americans care	score: 5.0
+Keyword: personal attacks	score: 5.0
+Keyword: wall street	score: 4.83333333333
+Keyword: pretty tough	score: 4.5
+Keyword: unclassified system	score: 4.5
+Keyword: gun lobby	score: 4.35
+Keyword: banking efforts	score: 4.33333333333
+Keyword: obama administration	score: 4.25
+Keyword: pretty clear	score: 4.16666666667
+Keyword: state department	score: 4.125
+Keyword: bernie sanders	score: 4.125
+Keyword: classified information	score: 4.11428571429
+Keyword: gun control	score: 4.1
+Keyword: gun violence	score: 4.1
+Keyword: gun owners	score: 4.1
+Keyword: gun manufacturers	score: 4.1
+Keyword: sherrod brown	score: 4.0
+Keyword: equal pay	score: 4.0
+Keyword: identifying heading	score: 4.0
+Keyword: significant agenda	score: 4.0
+Keyword: ceo pay	score: 4.0
+Keyword: good jobs	score: 4.0
+Keyword: wages rising	score: 4.0
+Keyword: brady bill	score: 4.0
+Keyword: legal protection	score: 4.0
+Keyword: send nonsecure	score: 4.0
+Keyword: dead end	score: 4.0
+Keyword: vast majority	score: 4.0
+Keyword: received today	score: 4.0
+Keyword: /marist poll	score: 4.0
+Keyword: carte blanche	score: 4.0
+Keyword: raise wages	score: 4.0
+Keyword: minimum wage	score: 4.0
+Keyword: act irresponsibly	score: 4.0
+Keyword: democratic voters	score: 4.0
+Keyword: legal consequences	score: 4.0
+Keyword: absolute immunity	score: 4.0
+Keyword: blind alley	score: 4.0
+Keyword: great confidence	score: 4.0
+Keyword: big banks	score: 4.0
+Keyword: instagram video	score: 4.0
+Keyword: consistently refusing	score: 4.0
+Keyword: paul krugman	score: 4.0
+Keyword: mortgage market	score: 4.0
+Keyword: jake sullivan	score: 4.0
+Keyword: donald trump	score: 4.0
+Keyword: monica lewinsky	score: 4.0
+Keyword: lead guest	score: 4.0
+Keyword: common practice	score: 4.0
+Keyword: supreme court	score: 4.0
+Keyword: voters judge	score: 4.0
+Keyword: senator sanders	score: 3.94318181818
+Keyword: defend women	score: 3.91666666667
+Keyword: senator leahy	score: 3.81818181818
+Keyword: president obama	score: 3.75
+Keyword: important point	score: 3.75
+Keyword: important piece	score: 3.75
+Keyword: huge difference	score: 3.75
+Keyword: important issues	score: 3.75
+Keyword: fair game	score: 3.66666666667
+Keyword: republicans running	score: 3.66666666667
+Keyword: secure fax	score: 3.66666666667
+Keyword: government system	score: 3.66666666667
+Keyword: frank bill	score: 3.66666666667
+Keyword: republicans rip	score: 3.66666666667
+Keyword: government accounts	score: 3.66666666667
+Keyword: barney frank	score: 3.66666666667
+Keyword: primary opponents	score: 3.5
+Keyword: specific question	score: 3.5
+Keyword: nra hailed	score: 3.5
+Keyword: express surprise	score: 3.5
+Keyword: avoid responsibility	score: 3.5
+Keyword: classification notices	score: 3.5
+Keyword: clear difference	score: 3.41666666667
+Keyword: york city	score: 3.33333333333
+Keyword: deep differences	score: 3.33333333333
+Keyword: good morning	score: 3.33333333333
+Keyword: senator representing	score: 3.31818181818
+Keyword: careful person	score: 3.25
+Keyword: lot today	score: 3.2
+Keyword: takes 90 people	score: 3.16666666667
+Keyword: clear distinctions	score: 3.16666666667
+Keyword: secretary clinton	score: 3.08333333333
+Keyword: called	score: 2.66666666667
+Keyword: work hard	score: 2.66666666667

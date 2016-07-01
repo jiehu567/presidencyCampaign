@@ -1,0 +1,239 @@
+
+Keyword: joe biden potentially entering	score: 16.0
+Keyword: late diane blair wrote	score: 14.0
+Keyword: good idea poorly executed	score: 13.5
+Keyword: donald trump stayed mute	score: 13.3333333333
+Keyword: pretty big unconventional choice	score: 12.4166666667
+Keyword: democratic presidentialâhillary clinton	score: 11.2807017544
+Keyword: give president bush credit	score: 10.1666666667
+Keyword: democratic presidential candidate	score: 10.0
+Keyword: skyrocketing prescription drugs	score: 9.0
+Keyword: packaging mortgage securities	score: 9.0
+Keyword: main fighting force	score: 9.0
+Keyword: hermetically sealed tanks	score: 9.0
+Keyword: impact main street	score: 9.0
+Keyword: persecuted religious minorities	score: 9.0
+Keyword: big ungoverned territories	score: 8.66666666667
+Keyword: affordable care act	score: 8.5
+Keyword: underlying condition creating	score: 8.5
+Keyword: prior government officials	score: 7.66666666667
+Keyword: wall street play	score: 7.66666666667
+Keyword: international meeting called	score: 7.5
+Keyword: provide health care	score: 7.5
+Keyword: russia increasingly moving	score: 7.5
+Keyword: planned parenthood videos	score: 7.4
+Keyword: people directly affected	score: 7.34482758621
+Keyword: recovered 13 million jobs	score: 7.33333333333
+Keyword: mail situation suggests	score: 7.33333333333
+Keyword: begin video clip	score: 7.3
+Keyword: american presidency projectpromote	score: 7.0
+Keyword: worst refugee crisis	score: 6.75
+Keyword: real hillary clinton	score: 6.61403508772
+Keyword: world war ii	score: 6.57142857143
+Keyword: 158 million american women	score: 6.41666666667
+Keyword: heard secretary kerry	score: 6.34615384615
+Keyword: end video clip	score: 6.2
+Keyword: united states working	score: 6.08333333333
+Keyword: state hillary clinton	score: 6.08070175439
+Keyword: state department make	score: 5.4
+Keyword: donald trump	score: 5.33333333333
+Keyword: good start	score: 4.66666666667
+Keyword: jeb bush	score: 4.66666666667
+Keyword: united states	score: 4.58333333333
+Keyword: worst impulses	score: 4.5
+Keyword: preexisting condition	score: 4.5
+Keyword: begin immediately	score: 4.5
+Keyword: international coalition	score: 4.5
+Keyword: takes care	score: 4.5
+Keyword: bad ideaâ	score: 4.5
+Keyword: bad idea	score: 4.5
+Keyword: health care	score: 4.5
+Keyword: planned parenthood	score: 4.4
+Keyword: economic situation	score: 4.33333333333
+Keyword: mail situation	score: 4.33333333333
+Keyword: hillary clinton	score: 4.28070175439
+Keyword: refugee crisis	score: 4.25
+Keyword: bush administration	score: 4.16666666667
+Keyword: deep links	score: 4.0
+Keyword: financial institution	score: 4.0
+Keyword: larger swathe	score: 4.0
+Keyword: financial institutions	score: 4.0
+Keyword: misleadingly edited	score: 4.0
+Keyword: federal ban	score: 4.0
+Keyword: federal limit	score: 4.0
+Keyword: state department	score: 4.0
+Keyword: social media	score: 4.0
+Keyword: inaccurate allegations	score: 4.0
+Keyword: cold war	score: 4.0
+Keyword: phony makeovers	score: 4.0
+Keyword: making decisions	score: 4.0
+Keyword: political experience	score: 4.0
+Keyword: eighth investigation	score: 4.0
+Keyword: kurdish fighters	score: 4.0
+Keyword: medical necessity	score: 4.0
+Keyword: fetal research	score: 4.0
+Keyword: longer charged	score: 4.0
+Keyword: health services	score: 4.0
+Keyword: european countries	score: 4.0
+Keyword: commercial break	score: 4.0
+Keyword: minded theories	score: 4.0
+Keyword: political pressure	score: 4.0
+Keyword: similarly untrue	score: 4.0
+Keyword: cancer screenings	score: 4.0
+Keyword: terrorist networks	score: 4.0
+Keyword: traditional sense	score: 4.0
+Keyword: financial transactions	score: 4.0
+Keyword: intense advocacy	score: 4.0
+Keyword: terribly tragic	score: 4.0
+Keyword: frequency trading	score: 4.0
+Keyword: includes releasing 55	score: 4.0
+Keyword: risks posed	score: 4.0
+Keyword: orderly processing	score: 4.0
+Keyword: diaryâquoteâ	score: 4.0
+Keyword: free pass	score: 4.0
+Keyword: neighboring countries	score: 4.0
+Keyword: ultimate effect	score: 4.0
+Keyword: independent review	score: 4.0
+Keyword: research institutions	score: 4.0
+Keyword: contraceptive services	score: 4.0
+Keyword: barack obama	score: 4.0
+Keyword: lehman brothers	score: 4.0
+Keyword: syrian army	score: 4.0
+Keyword: financial markets	score: 4.0
+Keyword: mccain stopped	score: 4.0
+Keyword: negative ads	score: 4.0
+Keyword: terrorist groups	score: 4.0
+Keyword: raising incomes	score: 4.0
+Keyword: arms treaty	score: 4.0
+Keyword: supreme court	score: 4.0
+Keyword: incomes rise	score: 4.0
+Keyword: throwback sunday	score: 4.0
+Keyword: chris stevens	score: 4.0
+Keyword: career professionals	score: 4.0
+Keyword: constant bombardment	score: 4.0
+Keyword: mail accounts	score: 4.0
+Keyword: billion dollars	score: 4.0
+Keyword: rallies suggest	score: 4.0
+Keyword: insurance companies	score: 4.0
+Keyword: secretary carter	score: 3.84615384615
+Keyword: secretary albright	score: 3.84615384615
+Keyword: line states	score: 3.75
+Keyword: yazidi women	score: 3.75
+Keyword: president obama	score: 3.75
+Keyword: great recession	score: 3.75
+Keyword: great resection	score: 3.75
+Keyword: president reagan	score: 3.75
+Keyword: vice president	score: 3.75
+Keyword: great depression	score: 3.75
+Keyword: real people	score: 3.67816091954
+Keyword: north africa	score: 3.66666666667
+Keyword: economic policy	score: 3.66666666667
+Keyword: public eye	score: 3.66666666667
+Keyword: public arena	score: 3.66666666667
+Keyword: government accounts	score: 3.66666666667
+Keyword: government systems	score: 3.66666666667
+Keyword: start dampening	score: 3.66666666667
+Keyword: government interfering	score: 3.66666666667
+Keyword: dangerous world	score: 3.57142857143
+Keyword: real person	score: 3.53333333333
+Keyword: include hezbollah	score: 3.5
+Keyword: tougher sanctions	score: 3.5
+Keyword: general assembly	score: 3.5
+Keyword: fair game	score: 3.5
+Keyword: naval base	score: 3.5
+Keyword: political reason	score: 3.5
+Keyword: mixed picture	score: 3.5
+Keyword: middle class	score: 3.5
+Keyword: hard choices	score: 3.5
+Keyword: putting money	score: 3.5
+Keyword: giving corporations	score: 3.5
+Keyword: deadly threat	score: 3.5
+Keyword: basically consumed	score: 3.5
+Keyword: brave americans	score: 3.5
+Keyword: bernie sanders	score: 3.5
+Keyword: syrian rebels	score: 3.5
+Keyword: term abortions	score: 3.5
+Keyword: failed program	score: 3.5
+Keyword: america safe	score: 3.5
+Keyword: scenes conversations	score: 3.5
+Keyword: supporting hezbollah	score: 3.5
+Keyword: place mats	score: 3.4
+Keyword: final question	score: 3.4
+Keyword: complicated question	score: 3.4
+Keyword: place mat	score: 3.4
+Keyword: people climbing	score: 3.34482758621
+Keyword: young people	score: 3.34482758621
+Keyword: people raise	score: 3.34482758621
+Keyword: professional people	score: 3.34482758621
+Keyword: crazy thing	score: 3.33333333333
+Keyword: front lines	score: 3.33333333333
+Keyword: syrian refugees	score: 3.33333333333
+Keyword: create millions	score: 3.33333333333
+Keyword: immediately deal	score: 3.33333333333
+Keyword: clinton headquarters	score: 3.28070175439
+Keyword: economic policies	score: 3.25
+Keyword: learn things	score: 3.25
+Keyword: woman president	score: 3.25
+Keyword: fathers bring	score: 3.25
+Keyword: immediately asked	score: 3.25
+Keyword: including christians	score: 3.25
+Keyword: report inside	score: 3.25
+Keyword: 9/11 happened	score: 3.2
+Keyword: john mccain	score: 3.2
+Keyword: story kind	score: 3.2
+Keyword: number allowed	score: 3.2
+Keyword: greatest respect	score: 3.2
+Keyword: painful questions	score: 3.14285714286
+Keyword: ultimately put	score: 3.14285714286
+Keyword: secretary clinton	score: 3.12685560054
+Keyword: terrorist attack	score: 3.125
+Keyword: sending back	score: 3.1
+Keyword: long interest	score: 3.0
+Keyword: policy debate	score: 3.0
+Keyword: people trained	score: 2.84482758621
+Keyword: support assad	score: 2.83333333333
+Keyword: republicans offer	score: 2.83333333333
+Keyword: republican debate	score: 2.83333333333
+Keyword: supporters stands	score: 2.83333333333
+Keyword: personal decision	score: 2.83333333333
+Keyword: long time	score: 2.75
+Keyword: personal server	score: 2.75
+Keyword: important work	score: 2.7
+Keyword: phone call	score: 2.7
+Keyword: big	score: 2.66666666667
+Keyword: hope people	score: 2.54482758621
+Keyword: train people	score: 2.54482758621
+Keyword: 16 million	score: 2.33333333333
+Keyword: american	score: 2.33333333333
+Keyword: health	score: 2.0
+Keyword: late	score: 2.0
+Keyword: mail	score: 2.0
+Keyword: jobs	score: 2.0
+Keyword: war	score: 2.0
+Keyword: meeting	score: 2.0
+Keyword: secretary	score: 1.84615384615
+Keyword: video	score: 1.8
+Keyword: state	score: 1.8
+Keyword: choice	score: 1.75
+Keyword: great	score: 1.75
+Keyword: crisis	score: 1.75
+Keyword: women	score: 1.75
+Keyword: give	score: 1.75
+Keyword: president	score: 1.75
+Keyword: public	score: 1.66666666667
+Keyword: africa	score: 1.66666666667
+Keyword: policy	score: 1.66666666667
+Keyword: play	score: 1.66666666667
+Keyword: presidency	score: 1.66666666667
+Keyword: government	score: 1.66666666667
+Keyword: start	score: 1.66666666667
+Keyword: world	score: 1.57142857143
+Keyword: woman	score: 1.5
+Keyword: putting	score: 1.5
+Keyword: assad	score: 1.5
+Keyword: bernie	score: 1.5
+Keyword: stands	score: 1.5
+Keyword: giving	score: 1.5
+Keyword: trained	score: 1.5
+Keyword: working	score: 1.5
+Keyword: phone	score: 1.5

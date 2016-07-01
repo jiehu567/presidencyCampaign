@@ -1,0 +1,449 @@
+
+Keyword: avoid sending american troops abroad	score: 19.5833333333
+Keyword: cnn democratic presidential town hall	score: 19.25
+Keyword: democratic presidential town hall	score: 16.25
+Keyword: creme de le resistance	score: 16.0
+Keyword: consumer financial protection bureau	score: 14.5
+Keyword: high school english teacher	score: 13.5
+Keyword: vital national security interest	score: 13.25
+Keyword: rabbi simcha bunem taught	score: 13.0
+Keyword: investment bank lehman brothers	score: 13.0
+Keyword: send american combat troops	score: 12.75
+Keyword: impressive foreign policy experience	score: 12.5476190476
+Keyword: raise middle class taxes	score: 12.3333333333
+Keyword: senate armed services committee	score: 12.25
+Keyword: great senator paul wellstone	score: 12.2176470588
+Keyword: universal health care coverage	score: 11.4444444444
+Keyword: drug companies spent millions	score: 10.9
+Keyword: human rights campaign endorses	score: 9.83333333333
+Keyword: interventionist foreign policy	score: 9.83333333333
+Keyword: planned parenthood endorses	score: 9.5
+Keyword: provide legal protection	score: 9.16666666667
+Keyword: military involvement abroad	score: 9.14285714286
+Keyword: police department equipped	score: 9.0
+Keyword: reduce nuclear weapons	score: 9.0
+Keyword: wear casual clothes	score: 9.0
+Keyword: jesuit henri nouwen	score: 9.0
+Keyword: hardest glass ceiling	score: 9.0
+Keyword: inspector hans blix	score: 9.0
+Keyword: avoid paying taxes	score: 9.0
+Keyword: american presidency projectpromote	score: 8.75
+Keyword: middle class hasn	score: 8.66666666667
+Keyword: voting rights act	score: 8.4
+Keyword: important absolutely critical question	score: 8.3253968254
+Keyword: early childhood education	score: 8.2
+Keyword: legal services lawyers	score: 8.16666666667
+Keyword: deliberate decision maker	score: 8.0
+Keyword: shadow banking sector	score: 8.0
+Keyword: nuclear weapons agreement	score: 8.0
+Keyword: south asia â pose	score: 8.0
+Keyword: open combat positions	score: 8.0
+Keyword: fossil fuel business	score: 8.0
+Keyword: pose excessive risk	score: 8.0
+Keyword: rabbi jonathan spira	score: 8.0
+Keyword: defend planned parenthood	score: 7.85714285714
+Keyword: health insurance program	score: 7.84444444444
+Keyword: affordable care act	score: 7.83333333333
+Keyword: hedge fund billionaires	score: 7.83333333333
+Keyword: large measure motivated	score: 7.66666666667
+Keyword: end segregated academies	score: 7.54545454545
+Keyword: facing hard choices	score: 7.53333333333
+Keyword: derry opera house	score: 7.53333333333
+Keyword: deliver positive change	score: 7.5
+Keyword: contentious national debate	score: 7.41666666667
+Keyword: preserve marriage equality	score: 7.41666666667
+Keyword: insurance company aig	score: 7.4
+Keyword: lgbt community members	score: 7.33333333333
+Keyword: foster care system	score: 7.33333333333
+Keyword: level drug users	score: 7.16666666667
+Keyword: president obama chose	score: 7.03726708075
+Keyword: president obama succeeded	score: 7.03726708075
+Keyword: president bush proceeded	score: 7.00869565217
+Keyword: potentially historic moment	score: 7.0
+Keyword: begin video clip	score: 7.0
+Keyword: prodigal son parable	score: 7.0
+Keyword: end video clip	score: 6.87878787879
+Keyword: fighting climate change	score: 6.83333333333
+Keyword: student debt problems	score: 6.83333333333
+Keyword: supreme court appointments	score: 6.8
+Keyword: people live longer	score: 6.8
+Keyword: supreme court justices	score: 6.8
+Keyword: important policy issues	score: 6.79761904762
+Keyword: set big goals	score: 6.79166666667
+Keyword: health care decisions	score: 6.77777777778
+Keyword: defend marriage equality	score: 6.77380952381
+Keyword: absolutely wonderful question	score: 6.61111111111
+Keyword: asked earlier â recreate	score: 6.5
+Keyword: young lawyer working	score: 6.45238095238
+Keyword: close personal relationship	score: 6.43333333333
+Keyword: senator bernie sanders	score: 6.41764705882
+Keyword: johnson controls thing	score: 6.33333333333
+Keyword: wall street interests	score: 6.33333333333
+Keyword: meet sean burke	score: 6.275
+Keyword: republican political interests	score: 6.25
+Keyword: law enforcement approach	score: 6.25
+Keyword: bush administration didn	score: 6.18571428571
+Keyword: big progressive goals	score: 6.17628205128
+Keyword: meet rebecca hutchinson	score: 6.125
+Keyword: democratic congress gave	score: 6.08333333333
+Keyword: selective service system	score: 6.04761904762
+Keyword: hard time imagining	score: 5.93333333333
+Keyword: senator sanders beat	score: 5.91764705882
+Keyword: short time ago	score: 5.9
+Keyword: defend president obama	score: 5.89440993789
+Keyword: meet alison pyott	score: 5.875
+Keyword: young women aren	score: 5.66666666667
+Keyword: real world works	score: 5.52380952381
+Keyword: president bush made	score: 5.50869565217
+Keyword: giving big money	score: 5.48863636364
+Keyword: day senator sanders	score: 5.19037433155
+Keyword: legal services	score: 5.16666666667
+Keyword: good conscious stand	score: 5.08571428571
+Keyword: grade school	score: 5.0
+Keyword: shadow banking	score: 5.0
+Keyword: financial system	score: 5.0
+Keyword: billionaire class	score: 5.0
+Keyword: longer affordable	score: 5.0
+Keyword: taught law	score: 5.0
+Keyword: marriage equality	score: 4.91666666667
+Keyword: bush administration	score: 4.9
+Keyword: drug companies	score: 4.9
+Keyword: state hillary clinton	score: 4.83955223881
+Keyword: lgbt community	score: 4.83333333333
+Keyword: climate change	score: 4.83333333333
+Keyword: student debt	score: 4.83333333333
+Keyword: avoid conflict	score: 4.83333333333
+Keyword: paid family leave	score: 4.83333333333
+Keyword: supreme court	score: 4.8
+Keyword: insurance companies	score: 4.8
+Keyword: health care	score: 4.77777777778
+Keyword: democratic party	score: 4.75
+Keyword: national emergency	score: 4.75
+Keyword: republican members	score: 4.75
+Keyword: average american	score: 4.75
+Keyword: national guard	score: 4.75
+Keyword: critical issues	score: 4.75
+Keyword: johnson controls	score: 4.66666666667
+Keyword: large measure	score: 4.66666666667
+Keyword: coverage continues	score: 4.66666666667
+Keyword: ambitious goals	score: 4.66666666667
+Keyword: senator obama	score: 4.54621848739
+Keyword: hedge funds	score: 4.5
+Keyword: preserve roe	score: 4.5
+Keyword: law enforcement	score: 4.5
+Keyword: koch brothers	score: 4.5
+Keyword: democratic side	score: 4.5
+Keyword: affordable college	score: 4.5
+Keyword: hampshire primary process	score: 4.45
+Keyword: health writings	score: 4.44444444444
+Keyword: mental health	score: 4.44444444444
+Keyword: barack obama	score: 4.42857142857
+Keyword: republicans taking back	score: 4.37301587302
+Keyword: defense fund	score: 4.33333333333
+Keyword: student loans	score: 4.33333333333
+Keyword: white house	score: 4.33333333333
+Keyword: wall street	score: 4.33333333333
+Keyword: bernie sanders	score: 4.3
+Keyword: democratic voters	score: 4.25
+Keyword: rebecca hutchinson	score: 4.25
+Keyword: democratic nominee	score: 4.25
+Keyword: early 1990s	score: 4.2
+Keyword: health issues	score: 4.19444444444
+Keyword: absolutely unconscionable	score: 4.16666666667
+Keyword: military force	score: 4.14285714286
+Keyword: military conflicts	score: 4.14285714286
+Keyword: military officers	score: 4.14285714286
+Keyword: volunteer military	score: 4.14285714286
+Keyword: good care	score: 4.13333333333
+Keyword: senator shaheen	score: 4.11764705882
+Keyword: great team	score: 4.1
+Keyword: great joy	score: 4.1
+Keyword: great pictures	score: 4.1
+Keyword: feels great	score: 4.1
+Keyword: great recession	score: 4.1
+Keyword: american opportunity	score: 4.08333333333
+Keyword: american people	score: 4.05
+Keyword: selective service	score: 4.04761904762
+Keyword: president obama	score: 4.03726708075
+Keyword: prescribe opioids	score: 4.0
+Keyword: rudy giuliani	score: 4.0
+Keyword: scripture lesson	score: 4.0
+Keyword: extensive set	score: 4.0
+Keyword: called hillarycare	score: 4.0
+Keyword: sweat shirt	score: 4.0
+Keyword: elderly dealing	score: 4.0
+Keyword: auto industry	score: 4.0
+Keyword: special forces	score: 4.0
+Keyword: testimony excerpts	score: 4.0
+Keyword: governor shumlin	score: 4.0
+Keyword: colon cancer	score: 4.0
+Keyword: governor hassan	score: 4.0
+Keyword: higher percentage	score: 4.0
+Keyword: vested interests	score: 4.0
+Keyword: fundamentally disagree	score: 4.0
+Keyword: juveniles incarcerated	score: 4.0
+Keyword: explicit appeal	score: 4.0
+Keyword: hang tough	score: 4.0
+Keyword: harry truman	score: 4.0
+Keyword: criminal liability	score: 4.0
+Keyword: countrywide mortgage	score: 4.0
+Keyword: negative attack	score: 4.0
+Keyword: occasion arises	score: 4.0
+Keyword: gather information	score: 4.0
+Keyword: north africa	score: 4.0
+Keyword: saved millions	score: 4.0
+Keyword: public arena	score: 4.0
+Keyword: nancy pelosi	score: 4.0
+Keyword: capitol hill	score: 4.0
+Keyword: long list	score: 4.0
+Keyword: gun lobby	score: 4.0
+Keyword: expert analysis	score: 4.0
+Keyword: brutal business	score: 4.0
+Keyword: chelsea brings	score: 4.0
+Keyword: essentially august	score: 4.0
+Keyword: navy seals	score: 4.0
+Keyword: terrorist organizations â	score: 4.0
+Keyword: jeanne shaheen	score: 4.0
+Keyword: infantry officers	score: 4.0
+Keyword: magnificent writer	score: 4.0
+Keyword: deep concern	score: 4.0
+Keyword: biggest gift	score: 4.0
+Keyword: biggest differences	score: 4.0
+Keyword: baseball cap	score: 4.0
+Keyword: south carolina	score: 4.0
+Keyword: odds favoring	score: 4.0
+Keyword: concord monitor	score: 4.0
+Keyword: medical professionals	score: 4.0
+Keyword: citizens united	score: 4.0
+Keyword: blanket statement	score: 4.0
+Keyword: kneejerk reaction	score: 4.0
+Keyword: terrorist threat	score: 4.0
+Keyword: opens doors	score: 4.0
+Keyword: strong feelings	score: 4.0
+Keyword: ultimate accomplishment	score: 4.0
+Keyword: gun violence	score: 4.0
+Keyword: called inversion	score: 4.0
+Keyword: status quo	score: 4.0
+Keyword: plead guilty	score: 4.0
+Keyword: special interests	score: 4.0
+Keyword: literally stops	score: 4.0
+Keyword: karl rove	score: 4.0
+Keyword: army rangers	score: 4.0
+Keyword: political system	score: 4.0
+Keyword: marine corps	score: 4.0
+Keyword: called obamacare	score: 4.0
+Keyword: factual basis	score: 4.0
+Keyword: word terminal	score: 4.0
+Keyword: arms race	score: 4.0
+Keyword: public dealing	score: 4.0
+Keyword: super pac	score: 4.0
+Keyword: joe biden	score: 4.0
+Keyword: alison pyott	score: 4.0
+Keyword: goldman sachs	score: 4.0
+Keyword: married father	score: 4.0
+Keyword: sweat pants	score: 4.0
+Keyword: perversely flattering	score: 4.0
+Keyword: recovery programs	score: 4.0
+Keyword: beautiful towns	score: 4.0
+Keyword: litmus tests	score: 4.0
+Keyword: car crashes	score: 4.0
+Keyword: spasm relief	score: 4.0
+Keyword: scientific writings	score: 4.0
+Keyword: political tactics	score: 4.0
+Keyword: unstable nations	score: 4.0
+Keyword: senator sanders	score: 3.91764705882
+Keyword: republican candidates	score: 3.91666666667
+Keyword: 90 percent coverage	score: 3.91666666667
+Keyword: meet mr	score: 3.875
+Keyword: real benefits	score: 3.85714285714
+Keyword: lgbt americans	score: 3.83333333333
+Keyword: absolutely wrong	score: 3.83333333333
+Keyword: nation primary	score: 3.8
+Keyword: big banks	score: 3.79166666667
+Keyword: mortgage issues	score: 3.75
+Keyword: wing attacks	score: 3.75
+Keyword: million kids	score: 3.75
+Keyword: mentioned attacks	score: 3.75
+Keyword: public issues	score: 3.75
+Keyword: human questions	score: 3.73333333333
+Keyword: brutal experience	score: 3.71428571429
+Keyword: secret service	score: 3.71428571429
+Keyword: theological concerns	score: 3.66666666667
+Keyword: years ago	score: 3.66666666667
+Keyword: run ads	score: 3.66666666667
+Keyword: free world	score: 3.66666666667
+Keyword: kitchen table	score: 3.66666666667
+Keyword: pretty pumped	score: 3.66666666667
+Keyword: valeant pharmaceuticals	score: 3.66666666667
+Keyword: negotiating table	score: 3.66666666667
+Keyword: based prosperity	score: 3.66666666667
+Keyword: closing argument	score: 3.66666666667
+Keyword: final thing	score: 3.66666666667
+Keyword: litmus test	score: 3.66666666667
+Keyword: turing pharmaceuticals	score: 3.66666666667
+Keyword: elected officials	score: 3.66666666667
+Keyword: pretty incredible	score: 3.66666666667
+Keyword: strange argument	score: 3.66666666667
+Keyword: young women	score: 3.66666666667
+Keyword: military action	score: 3.64285714286
+Keyword: female president	score: 3.60869565217
+Keyword: tough campaign	score: 3.6
+Keyword: great year	score: 3.6
+Keyword: great accomplishments	score: 3.6
+Keyword: campaign finance	score: 3.6
+Keyword: hillary clinton	score: 3.58955223881
+Keyword: personal issues	score: 3.58333333333
+Keyword: mind taking	score: 3.57142857143
+Keyword: good side	score: 3.55
+Keyword: hard decisions	score: 3.53333333333
+Keyword: real world	score: 3.52380952381
+Keyword: solid core	score: 3.5
+Keyword: woman grabbed	score: 3.5
+Keyword: reverse overdose	score: 3.5
+Keyword: strong piece	score: 3.5
+Keyword: uphill climb	score: 3.5
+Keyword: respectful conversation	score: 3.5
+Keyword: qualified women	score: 3.5
+Keyword: dave skinell	score: 3.5
+Keyword: unfortunate network	score: 3.5
+Keyword: incomes rising	score: 3.5
+Keyword: wider group	score: 3.5
+Keyword: religious writings	score: 3.5
+Keyword: wing conspiracy	score: 3.5
+Keyword: aids medicine	score: 3.5
+Keyword: impose sanctions	score: 3.5
+Keyword: famous women	score: 3.5
+Keyword: small donors	score: 3.5
+Keyword: revisit healthcare	score: 3.5
+Keyword: schedule ii	score: 3.5
+Keyword: learning â leaning	score: 3.5
+Keyword: splinters completely	score: 3.5
+Keyword: economic interests	score: 3.5
+Keyword: year die	score: 3.5
+Keyword: effective diplomacy	score: 3.5
+Keyword: neighboring vermont	score: 3.5
+Keyword: income inequality	score: 3.5
+Keyword: lose track	score: 3.5
+Keyword: sunday morning	score: 3.5
+Keyword: executive role	score: 3.5
+Keyword: grandmothers raising	score: 3.5
+Keyword: long walk	score: 3.5
+Keyword: ethical writings	score: 3.5
+Keyword: young people	score: 3.46666666667
+Keyword: big deal	score: 3.45833333333
+Keyword: fair question	score: 3.44444444444
+Keyword: partisan republicans	score: 3.44444444444
+Keyword: previous question	score: 3.44444444444
+Keyword: great opportunity	score: 3.43333333333
+Keyword: public life	score: 3.42857142857
+Keyword: entire life	score: 3.42857142857
+Keyword: miserable life	score: 3.42857142857
+Keyword: terrible attacks	score: 3.41666666667
+Keyword: wrong side	score: 3.41666666667
+Keyword: spend $750 million	score: 3.41666666667
+Keyword: long time	score: 3.4
+Keyword: corporate america	score: 3.4
+Keyword: decriminalize marijuana	score: 3.4
+Keyword: commercial break	score: 3.4
+Keyword: medical marijuana	score: 3.4
+Keyword: bad actors	score: 3.4
+Keyword: short break	score: 3.4
+Keyword: answered questions	score: 3.4
+Keyword: bad error	score: 3.4
+Keyword: progressive wing	score: 3.38461538462
+Keyword: young person	score: 3.36666666667
+Keyword: solicited money	score: 3.36363636364
+Keyword: money interests	score: 3.36363636364
+Keyword: clock back	score: 3.35714285714
+Keyword: hair back	score: 3.35714285714
+Keyword: julie carnigan	score: 3.33333333333
+Keyword: madam secretary	score: 3.33333333333
+Keyword: engender trust	score: 3.33333333333
+Keyword: earlier today	score: 3.33333333333
+Keyword: iraq war	score: 3.33333333333
+Keyword: absolute answer	score: 3.33333333333
+Keyword: amused today	score: 3.33333333333
+Keyword: independent torn	score: 3.33333333333
+Keyword: personally painful	score: 3.33333333333
+Keyword: destroy unions	score: 3.33333333333
+Keyword: ceo pay	score: 3.33333333333
+Keyword: glib answer	score: 3.33333333333
+Keyword: personal choice	score: 3.33333333333
+Keyword: crucial issue	score: 3.33333333333
+Keyword: qualified men	score: 3.33333333333
+Keyword: perfectly happy	score: 3.33333333333
+Keyword: eroded trust	score: 3.33333333333
+Keyword: people vet	score: 3.3
+Keyword: good contest	score: 3.3
+Keyword: sanders points	score: 3.3
+Keyword: chris lopez	score: 3.28571428571
+Keyword: rigged economy	score: 3.28571428571
+Keyword: united states	score: 3.28571428571
+Keyword: ve influenced	score: 3.27777777778
+Keyword: ve studied	score: 3.27777777778
+Keyword: ve ended	score: 3.27777777778
+Keyword: elected president	score: 3.27536231884
+Keyword: single day	score: 3.27272727273
+Keyword: faith advisers	score: 3.25
+Keyword: amazing granddaughter	score: 3.25
+Keyword: state representative	score: 3.25
+Keyword: save lives	score: 3.25
+Keyword: love campaigning	score: 3.25
+Keyword: simply follow	score: 3.25
+Keyword: open approach	score: 3.25
+Keyword: jim kinhan	score: 3.25
+Keyword: difficult issues	score: 3.25
+Keyword: saturday night	score: 3.25
+Keyword: personal questions	score: 3.23333333333
+Keyword: end discrimination	score: 3.21212121212
+Keyword: real difference	score: 3.19047619048
+Keyword: real feeling	score: 3.19047619048
+Keyword: delicate balance	score: 3.16666666667
+Keyword: based perspective	score: 3.16666666667
+Keyword: started happening	score: 3.16666666667
+Keyword: amazing questions	score: 3.15
+Keyword: hampshire primaries	score: 3.15
+Keyword: amazing time	score: 3.15
+Keyword: good deal	score: 3.13333333333
+Keyword: support business	score: 3.125
+Keyword: talk radio	score: 3.11111111111
+Keyword: lot easier	score: 3.10526315789
+Keyword: campaign sees	score: 3.1
+Keyword: vote automatically	score: 3.1
+Keyword: spend time	score: 3.06666666667
+Keyword: country safe	score: 3.06666666667
+Keyword: don lemon	score: 3.06060606061
+Keyword: 23 million people	score: 3.05
+Keyword: good ideas	score: 3.05
+Keyword: hard fought	score: 3.03333333333
+Keyword: hard won	score: 3.03333333333
+Keyword: deserve answers	score: 3.0
+Keyword: good jobs	score: 3.0
+Keyword: difficult line	score: 3.0
+Keyword: addiction problem	score: 3.0
+Keyword: cnn	score: 3.0
+Keyword: started talking	score: 3.0
+Keyword: progressive president	score: 2.99331103679
+Keyword: hard time	score: 2.93333333333
+Keyword: taking drugs	score: 2.90476190476
+Keyword: register concerns	score: 2.86666666667
+Keyword: paid back	score: 2.85714285714
+Keyword: defeat isis	score: 2.83333333333
+Keyword: mom passed	score: 2.83333333333
+Keyword: lot experience	score: 2.81954887218
+Keyword: people deserve	score: 2.8
+Keyword: defending people	score: 2.8
+Keyword: terrible mistake	score: 2.79166666667
+Keyword: economy producing	score: 2.78571428571
+Keyword: ve accomplished	score: 2.77777777778
+Keyword: ve talked	score: 2.77777777778
+Keyword: republicans wanted	score: 2.77777777778
+Keyword: ve made	score: 2.77777777778
+Keyword: ve lost	score: 2.77777777778
+Keyword: made speeches	score: 2.75
+Keyword: coming tonight	score: 2.75
+Keyword: including calling	score: 2.75
+Keyword: close friends	score: 2.74285714286
+Keyword: progressive values	score: 2.71794871795
+Keyword: critics point	score: 2.7
+Keyword: past couple	score: 2.7

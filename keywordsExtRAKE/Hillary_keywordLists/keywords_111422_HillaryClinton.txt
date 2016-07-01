@@ -1,0 +1,144 @@
+
+Keyword: emotionally politically charged partisan attack	score: 25.0
+Keyword: planned parenthood facilities perform abortions	score: 17.8571428571
+Keyword: turns turnâtargeting hillary clinton	score: 17.4285714286
+Keyword: controversial videos opposing planned parenthood	score: 16.8571428571
+Keyword: democratic national committee tells	score: 14.0
+Keyword: national security secrets running	score: 13.6
+Keyword: longer give federal funding	score: 13.5
+Keyword: helps provide family planning	score: 12.8333333333
+Keyword: ve dismissed donald trump	score: 11.5555555556
+Keyword: providing family planning	score: 9.16666666667
+Keyword: main democratic opponent	score: 9.0
+Keyword: democratic presidential candidate	score: 9.0
+Keyword: lone female candidate	score: 9.0
+Keyword: tackling climate change	score: 9.0
+Keyword: gop presidential candidate	score: 9.0
+Keyword: debbie wasserman schultz	score: 9.0
+Keyword: democratic presidential debates	score: 8.5
+Keyword: fully formed fetus	score: 8.5
+Keyword: health insurance program	score: 8.4
+Keyword: top republican candidate	score: 8.2
+Keyword: clean energy superpower	score: 8.0
+Keyword: breast cancer screenings	score: 8.0
+Keyword: end video clip	score: 7.5
+Keyword: dare hillary clinton	score: 7.42857142857
+Keyword: provide health care	score: 7.4
+Keyword: american public today	score: 7.33333333333
+Keyword: begin video clip	score: 7.16666666667
+Keyword: american presidency projectpromote	score: 7.0
+Keyword: controversial videos	score: 7.0
+Keyword: senator bernie sanders	score: 6.66666666667
+Keyword: making college affordable	score: 6.5
+Keyword: united states government	score: 6.075
+Keyword: donald trump	score: 6.0
+Keyword: depictâmadam secretary	score: 5.95
+Keyword: president obama inherited	score: 5.91666666667
+Keyword: continuing funding	score: 5.0
+Keyword: cancer screenings	score: 5.0
+Keyword: congressional committee	score: 5.0
+Keyword: bernie sanders	score: 5.0
+Keyword: democratic voters	score: 5.0
+Keyword: planned parenthood	score: 4.85714285714
+Keyword: âplanned parenthood	score: 4.85714285714
+Keyword: health care	score: 4.73333333333
+Keyword: federal dollars	score: 4.5
+Keyword: aborted fetus	score: 4.5
+Keyword: federal government	score: 4.5
+Keyword: public arena	score: 4.5
+Keyword: hillary clinton	score: 4.42857142857
+Keyword: american voters	score: 4.33333333333
+Keyword: barack obama	score: 4.25
+Keyword: republican party	score: 4.2
+Keyword: republican predecessors	score: 4.2
+Keyword: republican hopefuls	score: 4.2
+Keyword: video doesn	score: 4.16666666667
+Keyword: united states	score: 4.075
+Keyword: cnn exclusive	score: 4.0
+Keyword: federal laws	score: 4.0
+Keyword: lovely place	score: 4.0
+Keyword: helped produce	score: 4.0
+Keyword: substance abuse	score: 4.0
+Keyword: peril pursuing	score: 4.0
+Keyword: hiv test	score: 4.0
+Keyword: legs kicking	score: 4.0
+Keyword: carly fiorina	score: 4.0
+Keyword: ben carson	score: 4.0
+Keyword: heart beating	score: 4.0
+Keyword: health services	score: 4.0
+Keyword: student debt	score: 4.0
+Keyword: fight hard	score: 4.0
+Keyword: political attacks	score: 4.0
+Keyword: international sanctions	score: 4.0
+Keyword: silly season	score: 4.0
+Keyword: told voters	score: 4.0
+Keyword: equal work	score: 4.0
+Keyword: pretty indisputable	score: 4.0
+Keyword: competitive election	score: 4.0
+Keyword: jersey governor	score: 4.0
+Keyword: bigger problem	score: 4.0
+Keyword: hard choices	score: 4.0
+Keyword: quick question	score: 4.0
+Keyword: speaker boehner	score: 4.0
+Keyword: chris christie	score: 4.0
+Keyword: joe biden	score: 4.0
+Keyword: political outsiders	score: 4.0
+Keyword: general voters	score: 4.0
+Keyword: contraceptive advice	score: 4.0
+Keyword: baseless charges	score: 4.0
+Keyword: affiliated groups	score: 4.0
+Keyword: private life	score: 4.0
+Keyword: dangerous mess	score: 4.0
+Keyword: final question	score: 4.0
+Keyword: madam secretary	score: 3.95
+Keyword: president obama	score: 3.91666666667
+Keyword: early states	score: 3.875
+Keyword: american people	score: 3.83333333333
+Keyword: long list	score: 3.75
+Keyword: hampshire today	score: 3.7
+Keyword: make college	score: 3.7
+Keyword: clock back	score: 3.66666666667
+Keyword: usual back	score: 3.66666666667
+Keyword: vice president	score: 3.66666666667
+Keyword: good exchange	score: 3.6
+Keyword: good luck	score: 3.6
+Keyword: good friend	score: 3.6
+Keyword: ve turned	score: 3.55555555556
+Keyword: ve praised	score: 3.55555555556
+Keyword: raise questions	score: 3.5
+Keyword: eventually debating	score: 3.5
+Keyword: start working	score: 3.5
+Keyword: unfortunate decision	score: 3.5
+Keyword: hardworking people	score: 3.5
+Keyword: legal provision	score: 3.5
+Keyword: email accounts	score: 3.5
+Keyword: live interview	score: 3.5
+Keyword: equal pay	score: 3.5
+Keyword: finally nominate	score: 3.5
+Keyword: overheated rhetoric	score: 3.5
+Keyword: comprehensive agenda	score: 3.5
+Keyword: white house	score: 3.5
+Keyword: bill clinton	score: 3.42857142857
+Keyword: cnn debate	score: 3.4
+Keyword: important job	score: 3.4
+Keyword: campaign trail	score: 3.4
+Keyword: pulling ahead	score: 3.33333333333
+Keyword: core issue	score: 3.33333333333
+Keyword: difficult kinds	score: 3.33333333333
+Keyword: growing issues	score: 3.25
+Keyword: great president	score: 3.16666666667
+Keyword: long time	score: 3.15
+Keyword: abortion services	score: 3.1
+Keyword: services provided	score: 3.1
+Keyword: turn	score: 3.0
+Keyword: perform	score: 3.0
+Keyword: raising incomes	score: 3.0
+Keyword: debate stage	score: 2.9
+Keyword: husband understood	score: 2.83333333333
+Keyword: answer questions	score: 2.83333333333
+Keyword: country working	score: 2.75
+Keyword: women deserve	score: 2.7
+Keyword: provide	score: 2.66666666667
+Keyword: family	score: 2.66666666667
+Keyword: debates	score: 2.5
+Keyword: making	score: 2.0

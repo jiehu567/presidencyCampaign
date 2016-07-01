@@ -1,0 +1,246 @@
+
+Keyword: investigative reports documenting continuing discrimination	score: 23.5
+Keyword: martin luther king jr	score: 16.0
+Keyword: authorities shift poll locations	score: 15.3333333333
+Keyword: mentor president lyndon johnsonâ	score: 14.8
+Keyword: previously faced special scrutiny	score: 14.1666666667
+Keyword: governor christie vetoed legislation	score: 13.6666666667
+Keyword: governor mitt romney campaign	score: 13.3333333333
+Keyword: providing online voter registration	score: 13.25
+Keyword: governor rick perry signed	score: 13.0
+Keyword: eligible americans remain unregistered	score: 13.0
+Keyword: barbara jordan famously reminded	score: 12.5285714286
+Keyword: valid student id isn	score: 12.0
+Keyword: mandated early voting opportunities	score: 11.2804232804
+Keyword: faced massive delays	score: 9.5
+Keyword: eliminate voter outreach	score: 9.25
+Keyword: wiley college id	score: 9.16666666667
+Keyword: concealed weapon permit	score: 9.0
+Keyword: effective eloquent inquisitor	score: 9.0
+Keyword: exhaustive review process	score: 9.0
+Keyword: filing legal challenges	score: 9.0
+Keyword: scrap language assistance	score: 9.0
+Keyword: grassroots mobilization efforts	score: 9.0
+Keyword: heman marion sweatt	score: 9.0
+Keyword: latest terrible disaster	score: 9.0
+Keyword: hold authorities accountable	score: 8.83333333333
+Keyword: attend wiley college	score: 8.66666666667
+Keyword: false voting times	score: 8.51851851852
+Keyword: stop fear mongering	score: 8.5
+Keyword: krystal watson found	score: 8.5
+Keyword: everyday experiences confirm	score: 8.5
+Keyword: tireless advocates raising	score: 8.5
+Keyword: recent terrible flooding	score: 8.5
+Keyword: automatic voter registration	score: 8.25
+Keyword: put principle ahead	score: 8.25
+Keyword: registered voterâperiod	score: 8.25
+Keyword: american presidency projectpromote	score: 8.125
+Keyword: intentioned election officials	score: 8.0
+Keyword: county election officials	score: 8.0
+Keyword: local polling place	score: 8.0
+Keyword: deeply flawed purge	score: 8.0
+Keyword: face similar situations	score: 8.0
+Keyword: true personal heroesâ	score: 8.0
+Keyword: senate judiciary committees	score: 8.0
+Keyword: state authorities conducted	score: 7.95833333333
+Keyword: expanded early voting	score: 7.94708994709
+Keyword: voting rights act	score: 7.70740740741
+Keyword: supreme court eviscerated	score: 7.53333333333
+Keyword: barbara jordan led	score: 7.52857142857
+Keyword: common sense reforms	score: 7.5
+Keyword: sheila jackson lee	score: 7.5
+Keyword: moral monday movement	score: 7.5
+Keyword: bipartisan presidential commission	score: 7.5
+Keyword: thurgood marshall school	score: 7.5
+Keyword: common sense ways	score: 7.5
+Keyword: thanking president rudley	score: 7.46666666667
+Keyword: fundamental american principle	score: 7.375
+Keyword: accommodate long lines	score: 7.33333333333
+Keyword: civil rights legacy	score: 7.3
+Keyword: including hispanic americans	score: 7.25
+Keyword: including expanding early	score: 7.17857142857
+Keyword: voting rights back	score: 7.06851851852
+Keyword: extend early voting	score: 6.94708994709
+Keyword: north carolina passed	score: 6.91666666667
+Keyword: president obama work	score: 6.88333333333
+Keyword: strengthen voting rights	score: 6.81851851852
+Keyword: barbara jordan fought	score: 6.77857142857
+Keyword: profile state laws	score: 6.625
+Keyword: met barbara jordan	score: 6.52857142857
+Keyword: extend voting hours	score: 6.51851851852
+Keyword: important news coming	score: 6.5
+Keyword: texas southern university	score: 6.46666666667
+Keyword: governor perry	score: 6.0
+Keyword: made election day	score: 6.0
+Keyword: signed legislation	score: 5.66666666667
+Keyword: racial discrimination	score: 5.5
+Keyword: congress finally passed	score: 5.48333333333
+Keyword: president obama	score: 5.13333333333
+Keyword: barbara isn	score: 5.1
+Keyword: valid form	score: 5.0
+Keyword: early voting	score: 4.94708994709
+Keyword: voting rights	score: 4.81851851852
+Keyword: expanding rights	score: 4.8
+Keyword: civil rights	score: 4.8
+Keyword: hold back	score: 4.75
+Keyword: college students	score: 4.66666666667
+Keyword: special protections	score: 4.66666666667
+Keyword: special moment	score: 4.66666666667
+Keyword: âincluding opportunities	score: 4.58333333333
+Keyword: north carolina	score: 4.58333333333
+Keyword: rights back	score: 4.55
+Keyword: supreme court	score: 4.53333333333
+Keyword: barbara jordan	score: 4.52857142857
+Keyword: mail voting	score: 4.51851851852
+Keyword: evening voting	score: 4.51851851852
+Keyword: improve voting	score: 4.51851851852
+Keyword: makes voting	score: 4.51851851852
+Keyword: voting machines	score: 4.51851851852
+Keyword: everyday americans	score: 4.5
+Keyword: moral clarity	score: 4.5
+Keyword: recent laws	score: 4.5
+Keyword: presidential election	score: 4.5
+Keyword: krystal takes	score: 4.5
+Keyword: common ground	score: 4.5
+Keyword: stop millions	score: 4.5
+Keyword: long lines	score: 4.33333333333
+Keyword: barack obama	score: 4.33333333333
+Keyword: president asked	score: 4.3
+Keyword: americans fought	score: 4.25
+Keyword: holds back	score: 4.25
+Keyword: south carolina	score: 4.25
+Keyword: principle underlying	score: 4.25
+Keyword: federal court	score: 4.2
+Keyword: holding court	score: 4.2
+Keyword: pass legislation	score: 4.16666666667
+Keyword: african american	score: 4.125
+Keyword: eligible vote	score: 4.12
+Keyword: person voting	score: 4.01851851852
+Keyword: absentee voting	score: 4.01851851852
+Keyword: vote act	score: 4.00888888889
+Keyword: absolute embodiment	score: 4.0
+Keyword: common interest	score: 4.0
+Keyword: living legacy	score: 4.0
+Keyword: build momentum	score: 4.0
+Keyword: entire approach	score: 4.0
+Keyword: genuinely amazed	score: 4.0
+Keyword: incredible programs	score: 4.0
+Keyword: deputy registrar	score: 4.0
+Keyword: precincts failed	score: 4.0
+Keyword: sideline comments	score: 4.0
+Keyword: 19th amendment	score: 4.0
+Keyword: tireless champion	score: 4.0
+Keyword: activists working	score: 4.0
+Keyword: worst offenses	score: 4.0
+Keyword: mickey leland	score: 4.0
+Keyword: asian americans	score: 4.0
+Keyword: expert witnesses	score: 4.0
+Keyword: minority areas	score: 4.0
+Keyword: phantom epidemic	score: 4.0
+Keyword: experts estimate	score: 4.0
+Keyword: staunch advocate	score: 4.0
+Keyword: young attorney	score: 4.0
+Keyword: day registration	score: 4.0
+Keyword: family obligations	score: 4.0
+Keyword: english speakersâ	score: 4.0
+Keyword: brilliant teaching	score: 4.0
+Keyword: lost trust	score: 4.0
+Keyword: favorite sayings	score: 4.0
+Keyword: educate americans	score: 4.0
+Keyword: citizenship conveys	score: 4.0
+Keyword: basketball games	score: 4.0
+Keyword: sweeping effort	score: 4.0
+Keyword: fence post	score: 4.0
+Keyword: frequent questions	score: 4.0
+Keyword: jeb bush	score: 4.0
+Keyword: fierce opposition	score: 4.0
+Keyword: registration rolls	score: 4.0
+Keyword: modernized registration	score: 4.0
+Keyword: license expired	score: 4.0
+Keyword: key provision	score: 4.0
+Keyword: legislative record	score: 4.0
+Keyword: insufficient numbers	score: 4.0
+Keyword: personally honored	score: 4.0
+Keyword: century ago	score: 4.0
+Keyword: clearance provisions	score: 4.0
+Keyword: national office	score: 4.0
+Keyword: minority neighborhoods	score: 4.0
+Keyword: paper records	score: 4.0
+Keyword: equally exciting	score: 4.0
+Keyword: automatically registered	score: 4.0
+Keyword: scorched earth	score: 4.0
+Keyword: criminal convictions	score: 4.0
+Keyword: actively choose	score: 4.0
+Keyword: shaken confidence	score: 4.0
+Keyword: unstoppable congresswoman	score: 4.0
+Keyword: fairer nation	score: 4.0
+Keyword: lost protections	score: 4.0
+Keyword: election day	score: 4.0
+Keyword: federal crime	score: 4.0
+Keyword: entire nation	score: 4.0
+Keyword: native americans	score: 4.0
+Keyword: inhibit americans	score: 4.0
+Keyword: position working	score: 4.0
+Keyword: god bless	score: 4.0
+Keyword: profound moment	score: 4.0
+Keyword: worst provisions	score: 4.0
+Keyword: earlier age	score: 4.0
+Keyword: cruel ironyâ	score: 4.0
+Keyword: election dates	score: 4.0
+Keyword: great treat	score: 4.0
+Keyword: rosemary mcgowan	score: 4.0
+Keyword: profound impact	score: 4.0
+Keyword: federal holiday	score: 4.0
+Keyword: courageous men	score: 4.0
+Keyword: sending flyers	score: 4.0
+Keyword: yelling directions	score: 4.0
+Keyword: 18th district	score: 4.0
+Keyword: election fraud	score: 4.0
+Keyword: jump higher	score: 4.0
+Keyword: horrific storm	score: 4.0
+Keyword: covered jurisdictions	score: 4.0
+Keyword: campaign lawyer	score: 3.83333333333
+Keyword: polling places	score: 3.83333333333
+Keyword: local community	score: 3.83333333333
+Keyword: young women	score: 3.75
+Keyword: irresistible voice	score: 3.75
+Keyword: voice counts	score: 3.75
+Keyword: pioneering work	score: 3.75
+Keyword: law school	score: 3.75
+Keyword: american voters	score: 3.70833333333
+Keyword: historic institution	score: 3.66666666667
+Keyword: american citizens	score: 3.625
+Keyword: american history	score: 3.625
+Keyword: state legislators	score: 3.625
+Keyword: barbara turned	score: 3.6
+Keyword: registered voters	score: 3.58333333333
+Keyword: white voters	score: 3.58333333333
+Keyword: minority voters	score: 3.58333333333
+Keyword: registering voters	score: 3.58333333333
+Keyword: deceiving voters	score: 3.58333333333
+Keyword: perfect union	score: 3.5
+Keyword: long march	score: 3.5
+Keyword: young man	score: 3.5
+Keyword: full protections	score: 3.5
+Keyword: start explaining	score: 3.5
+Keyword: high schools	score: 3.5
+Keyword: bill called	score: 3.5
+Keyword: standard required	score: 3.5
+Keyword: inclusive generation	score: 3.5
+Keyword: expose abuses	score: 3.5
+Keyword: individual citizens	score: 3.5
+Keyword: letting citizens	score: 3.5
+Keyword: families coming	score: 3.5
+Keyword: days ago	score: 3.5
+Keyword: young senator	score: 3.5
+Keyword: political system	score: 3.5
+Keyword: long struggle	score: 3.5
+Keyword: current system	score: 3.5
+Keyword: texas affected	score: 3.46666666667
+Keyword: south texas	score: 3.46666666667
+Keyword: represent texas	score: 3.46666666667
+Keyword: texas legislature	score: 3.46666666667
+Keyword: disenfranchise people	score: 3.4
+Keyword: 000 young people	score: 3.4
+Keyword: young people	score: 3.4
+Keyword: ann richards	score: 3.33333333333

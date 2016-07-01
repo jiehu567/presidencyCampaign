@@ -1,0 +1,481 @@
+
+Keyword: recommend cutting middle class taxes	score: 15.2939393939
+Keyword: stock priceâstock prices	score: 14.2
+Keyword: white houseâpennsylvania avenue	score: 12.9
+Keyword: reduce greenhouse gas emissions	score: 12.8333333333
+Keyword: urge raising income taxes	score: 12.4
+Keyword: giving specific tax credits	score: 12.25
+Keyword: putting american combat troops back	score: 12.0365800866
+Keyword: middle class economic future	score: 11.1558441558
+Keyword: meant representing big business	score: 10.6666666667
+Keyword: middle class people pay	score: 9.37012987013
+Keyword: middle class families	score: 9.22727272727
+Keyword: democratic frontrunner sat	score: 9.0
+Keyword: integrate currency manipulation	score: 9.0
+Keyword: network radical jihadism	score: 9.0
+Keyword: formidable adversary online	score: 9.0
+Keyword: hedge fund loophole	score: 9.0
+Keyword: hay adams hotel	score: 9.0
+Keyword: paying big taxes	score: 8.56666666667
+Keyword: american presidency projectpromote	score: 8.45
+Keyword: stifle american entrepreneurialism	score: 8.45
+Keyword: fund social security	score: 8.33333333333
+Keyword: major interview secretary clinton	score: 8.25490196078
+Keyword: entire human race	score: 8.16666666667
+Keyword: quick time tableârose	score: 8.0258735073
+Keyword: additional steps earlier	score: 8.0
+Keyword: osama bin laden	score: 8.0
+Keyword: balance shift dramatically	score: 8.0
+Keyword: entire corporate code	score: 8.0
+Keyword: major american corporations	score: 7.95
+Keyword: bought back shares	score: 7.90476190476
+Keyword: middle class people	score: 7.77012987013
+Keyword: clean energy superpower	score: 7.66666666667
+Keyword: begin voluntary recording	score: 7.6
+Keyword: employed fewer people	score: 7.54285714286
+Keyword: regulate wall street	score: 7.5
+Keyword: financial services sector	score: 7.5
+Keyword: stifle american business	score: 7.45
+Keyword: american flagship company	score: 7.45
+Keyword: huge economic opportunity	score: 7.42857142857
+Keyword: make big investmentsârose	score: 7.31578947368
+Keyword: extra added part	score: 7.2
+Keyword: reaching consensusârose	score: 7.17293233083
+Keyword: terrorist groupârose	score: 7.17293233083
+Keyword: create democracy overnight	score: 7.16666666667
+Keyword: nuclear program literally	score: 7.15238095238
+Keyword: payroll taxesârose	score: 7.07293233083
+Keyword: barack obama thought	score: 7.06666666667
+Keyword: judging trade agreements	score: 7.05555555556
+Keyword: sunni tribes back	score: 7.02976190476
+Keyword: encourage democratic members	score: 7.0
+Keyword: nuclear weapon program	score: 6.98571428571
+Keyword: terror group isis	score: 6.98148148148
+Keyword: complex human problem	score: 6.95833333333
+Keyword: great philanthropic commitment	score: 6.8
+Keyword: terrible great recession	score: 6.8
+Keyword: sunni tribal leaders	score: 6.79166666667
+Keyword: president obama suspended	score: 6.79130434783
+Keyword: foster care system	score: 6.75
+Keyword: totally fair question	score: 6.72222222222
+Keyword: good paying jobs	score: 6.7
+Keyword: tax system fair	score: 6.66666666667
+Keyword: push isis literally	score: 6.64814814815
+Keyword: enforce human rights	score: 6.46666666667
+Keyword: rapidly changing world	score: 6.4
+Keyword: syrians leaving syria	score: 6.33333333333
+Keyword: interest pretty clear	score: 6.33333333333
+Keyword: american troops left	score: 6.29848484848
+Keyword: unintentionally turkish airspace	score: 6.25
+Keyword: middle class	score: 6.22727272727
+Keyword: drug companies spend	score: 6.16666666667
+Keyword: highway transportation bill	score: 6.16666666667
+Keyword: cutting taxesâ	score: 6.06666666667
+Keyword: isis inside iraq	score: 5.73148148148
+Keyword: libyan people rose	score: 5.71578947368
+Keyword: combat troops	score: 5.68181818182
+Keyword: ve lost people	score: 5.66785714286
+Keyword: united states secretary	score: 5.66666666667
+Keyword: tax credits	score: 5.25
+Keyword: find common ground	score: 5.03333333333
+Keyword: quick story	score: 5.0
+Keyword: care giving	score: 5.0
+Keyword: bin laden	score: 5.0
+Keyword: changing rapidly	score: 5.0
+Keyword: white house	score: 4.9
+Keyword: hillary clinton make	score: 4.81442577031
+Keyword: nuclear weapon	score: 4.78571428571
+Keyword: payroll tax	score: 4.75
+Keyword: conflict airspaceârose	score: 4.67293233083
+Keyword: clean energy	score: 4.66666666667
+Keyword: âclean energy	score: 4.66666666667
+Keyword: literally saving	score: 4.66666666667
+Keyword: 000 american troops	score: 4.63181818182
+Keyword: american troops	score: 4.63181818182
+Keyword: corporate tax	score: 4.58333333333
+Keyword: middle east	score: 4.52727272727
+Keyword: drug addict	score: 4.5
+Keyword: internal agreements	score: 4.5
+Keyword: financial markets	score: 4.5
+Keyword: tax system	score: 4.5
+Keyword: wall street	score: 4.5
+Keyword: wicked race	score: 4.5
+Keyword: foster kids	score: 4.5
+Keyword: terror attacks	score: 4.5
+Keyword: nuclear program	score: 4.48571428571
+Keyword: sunni leaders	score: 4.45833333333
+Keyword: american business	score: 4.45
+Keyword: american worker	score: 4.45
+Keyword: american businesses	score: 4.45
+Keyword: american blood	score: 4.45
+Keyword: american companies	score: 4.45
+Keyword: push back	score: 4.40476190476
+Keyword: big price	score: 4.36666666667
+Keyword: gas linesâ	score: 4.33333333333
+Keyword: corporate regulations	score: 4.33333333333
+Keyword: tribal sheiks	score: 4.33333333333
+Keyword: union leaders	score: 4.33333333333
+Keyword: sunni troops	score: 4.30681818182
+Keyword: nuclear weapons	score: 4.28571428571
+Keyword: tax rate	score: 4.25
+Keyword: share price	score: 4.2
+Keyword: remaining troops	score: 4.18181818182
+Keyword: highway bill	score: 4.16666666667
+Keyword: fair elections	score: 4.16666666667
+Keyword: big exception	score: 4.16666666667
+Keyword: big impact	score: 4.16666666667
+Keyword: big fear	score: 4.16666666667
+Keyword: big target	score: 4.16666666667
+Keyword: equation fair	score: 4.16666666667
+Keyword: fair growth	score: 4.16666666667
+Keyword: big banks	score: 4.16666666667
+Keyword: sunni officers	score: 4.125
+Keyword: sunni sheiks	score: 4.125
+Keyword: american airstrikes	score: 4.11666666667
+Keyword: national security	score: 4.08333333333
+Keyword: entire world	score: 4.06666666667
+Keyword: security forces	score: 4.04761904762
+Keyword: economic infrastructure	score: 4.02857142857
+Keyword: economic infrastructureâ	score: 4.02857142857
+Keyword: rock solid	score: 4.0
+Keyword: incredibly frayed	score: 4.0
+Keyword: âfred smith	score: 4.0
+Keyword: deeply distressed	score: 4.0
+Keyword: intellectual property	score: 4.0
+Keyword: foreign relations	score: 4.0
+Keyword: fly zones	score: 4.0
+Keyword: biggest enemy	score: 4.0
+Keyword: arab spring	score: 4.0
+Keyword: sectarianism slowly	score: 4.0
+Keyword: warned repeatedly	score: 4.0
+Keyword: constantly balancing	score: 4.0
+Keyword: strategic planning	score: 4.0
+Keyword: sharm el	score: 4.0
+Keyword: lieutenants plotting	score: 4.0
+Keyword: deteriorating roads	score: 4.0
+Keyword: advanced economies	score: 4.0
+Keyword: iranian soldiers	score: 4.0
+Keyword: incredible burden	score: 4.0
+Keyword: send kids	score: 4.0
+Keyword: high hopes	score: 4.0
+Keyword: temperature increase	score: 4.0
+Keyword: small businesses	score: 4.0
+Keyword: special deals	score: 4.0
+Keyword: vast majority	score: 4.0
+Keyword: south asia	score: 4.0
+Keyword: elderly relative	score: 4.0
+Keyword: carried interest	score: 4.0
+Keyword: loose confederation	score: 4.0
+Keyword: reached results	score: 4.0
+Keyword: consequential crisis	score: 4.0
+Keyword: obama administration	score: 4.0
+Keyword: allerganâmerger	score: 4.0
+Keyword: climate conference	score: 4.0
+Keyword: north africa	score: 4.0
+Keyword: hoped fix	score: 4.0
+Keyword: user fees	score: 4.0
+Keyword: france picking	score: 4.0
+Keyword: increase exports	score: 4.0
+Keyword: presidential candidate	score: 4.0
+Keyword: epa moves	score: 4.0
+Keyword: handed authoritarian	score: 4.0
+Keyword: failed states	score: 4.0
+Keyword: sherrod brown	score: 4.0
+Keyword: quicker intensification	score: 4.0
+Keyword: 21st century	score: 4.0
+Keyword: united states	score: 4.0
+Keyword: executive branch	score: 4.0
+Keyword: relationship based	score: 4.0
+Keyword: flying sorties	score: 4.0
+Keyword: sweeping generalizations	score: 4.0
+Keyword: enforceable body	score: 4.0
+Keyword: dairy farmers	score: 4.0
+Keyword: bad actors	score: 4.0
+Keyword: independent assessment	score: 4.0
+Keyword: bashar al	score: 4.0
+Keyword: similarly responding	score: 4.0
+Keyword: paul krugman	score: 4.0
+Keyword: essentially undo	score: 4.0
+Keyword: effective rate	score: 4.0
+Keyword: main missions	score: 4.0
+Keyword: high rate	score: 4.0
+Keyword: elizabeth warren	score: 4.0
+Keyword: watershed elections	score: 4.0
+Keyword: systematically broken	score: 4.0
+Keyword: fix axles	score: 4.0
+Keyword: small business	score: 4.0
+Keyword: armed groups	score: 4.0
+Keyword: sewer mains	score: 4.0
+Keyword: shadow banking	score: 4.0
+Keyword: federal express	score: 4.0
+Keyword: partly reflected	score: 4.0
+Keyword: preexisting relationships	score: 4.0
+Keyword: recovery act	score: 4.0
+Keyword: activist shareholders	score: 4.0
+Keyword: barbaric enemy	score: 4.0
+Keyword: tom delay	score: 4.0
+Keyword: increasing inequality	score: 4.0
+Keyword: nurturing relationships	score: 4.0
+Keyword: recruitment tool	score: 4.0
+Keyword: medical aid	score: 4.0
+Keyword: balcony overlooking	score: 4.0
+Keyword: months ago	score: 4.0
+Keyword: fly zone	score: 4.0
+Keyword: wealthy individuals	score: 4.0
+Keyword: lehman brothers	score: 4.0
+Keyword: surely undermined	score: 4.0
+Keyword: al qaeda	score: 4.0
+Keyword: touch base	score: 4.0
+Keyword: significant idea	score: 4.0
+Keyword: historical rivalry	score: 4.0
+Keyword: strongest proponent	score: 4.0
+Keyword: apprenticeship programs	score: 4.0
+Keyword: arab states	score: 4.0
+Keyword: single airport	score: 4.0
+Keyword: american workers	score: 3.95
+Keyword: american leadership	score: 3.95
+Keyword: economic plans	score: 3.92857142857
+Keyword: sunni force	score: 3.925
+Keyword: turkish border	score: 3.91666666667
+Keyword: successfully back	score: 3.90476190476
+Keyword: clock back	score: 3.90476190476
+Keyword: pulled back	score: 3.90476190476
+Keyword: real texture	score: 3.85714285714
+Keyword: real trick	score: 3.85714285714
+Keyword: complex set	score: 3.83333333333
+Keyword: taking care	score: 3.83333333333
+Keyword: bad behavior	score: 3.83333333333
+Keyword: big challenges	score: 3.83333333333
+Keyword: iranian behavior	score: 3.83333333333
+Keyword: bad behaviorâ	score: 3.83333333333
+Keyword: driving force	score: 3.8
+Keyword: gay rights	score: 3.8
+Keyword: increasing force	score: 3.8
+Keyword: great shame	score: 3.8
+Keyword: great depression	score: 3.8
+Keyword: great intentions	score: 3.8
+Keyword: persian gulf	score: 3.8
+Keyword: general petraeus	score: 3.8
+Keyword: civil rights	score: 3.8
+Keyword: president obama	score: 3.79130434783
+Keyword: national corporations	score: 3.75
+Keyword: national guard	score: 3.75
+Keyword: strong growth	score: 3.75
+Keyword: national unity	score: 3.75
+Keyword: fast track	score: 3.75
+Keyword: parallel track	score: 3.75
+Keyword: operational level	score: 3.75
+Keyword: battalion level	score: 3.75
+Keyword: strong man	score: 3.75
+Keyword: taking back	score: 3.7380952381
+Keyword: special forces	score: 3.71428571429
+Keyword: good news	score: 3.7
+Keyword: good shape	score: 3.7
+Keyword: happen overnight	score: 3.7
+Keyword: good result	score: 3.7
+Keyword: complex time	score: 3.6862745098
+Keyword: economic problems	score: 3.67857142857
+Keyword: diplomatic solution	score: 3.66666666667
+Keyword: bill gates	score: 3.66666666667
+Keyword: legislative process	score: 3.66666666667
+Keyword: treasury department	score: 3.66666666667
+Keyword: raise funds	score: 3.66666666667
+Keyword: effective campaign	score: 3.66666666667
+Keyword: justice department	score: 3.66666666667
+Keyword: oil distribution	score: 3.66666666667
+Keyword: oil industry	score: 3.66666666667
+Keyword: banks thinks	score: 3.66666666667
+Keyword: previous campaignâ	score: 3.66666666667
+Keyword: fly airstrikes	score: 3.66666666667
+Keyword: climate change	score: 3.66666666667
+Keyword: secretary kerry	score: 3.66666666667
+Keyword: violent approach	score: 3.66666666667
+Keyword: big speech	score: 3.66666666667
+Keyword: 24/7 effort	score: 3.625
+Keyword: jet coming	score: 3.625
+Keyword: pressure coming	score: 3.625
+Keyword: throated effort	score: 3.625
+Keyword: biggest problem	score: 3.625
+Keyword: ongoing effort	score: 3.625
+Keyword: prior administration	score: 3.6
+Keyword: wealthy pay	score: 3.6
+Keyword: begin forming	score: 3.6
+Keyword: ceo pay	score: 3.6
+Keyword: require turkish	score: 3.58333333333
+Keyword: term prospect	score: 3.57142857143
+Keyword: term growth	score: 3.57142857143
+Keyword: interesting question	score: 3.55555555556
+Keyword: 60 seconds people	score: 3.54285714286
+Keyword: business people	score: 3.54285714286
+Keyword: common ground	score: 3.53333333333
+Keyword: young man	score: 3.5
+Keyword: mubarak falling	score: 3.5
+Keyword: iraqi army	score: 3.5
+Keyword: exporting terrorism	score: 3.5
+Keyword: biggest economy	score: 3.5
+Keyword: greater mileage	score: 3.5
+Keyword: water mains	score: 3.5
+Keyword: shia split	score: 3.5
+Keyword: unity government	score: 3.5
+Keyword: global economy	score: 3.5
+Keyword: board cut	score: 3.5
+Keyword: mortgage market	score: 3.5
+Keyword: dual tracks	score: 3.5
+Keyword: failing grade	score: 3.5
+Keyword: safe areas	score: 3.5
+Keyword: recently talked	score: 3.5
+Keyword: page report	score: 3.5
+Keyword: hold elections	score: 3.5
+Keyword: functioning government	score: 3.5
+Keyword: ongoing arguments	score: 3.5
+Keyword: integrated army	score: 3.5
+Keyword: arab friends	score: 3.5
+Keyword: founders set	score: 3.5
+Keyword: build economies	score: 3.5
+Keyword: politically opposites	score: 3.5
+Keyword: defense minister	score: 3.5
+Keyword: credible plan	score: 3.5
+Keyword: european allies	score: 3.5
+Keyword: west began	score: 3.5
+Keyword: issued warnings	score: 3.5
+Keyword: republican side	score: 3.5
+Keyword: worker training	score: 3.5
+Keyword: worse fate	score: 3.5
+Keyword: lose influence	score: 3.5
+Keyword: political debate	score: 3.5
+Keyword: patient capital	score: 3.5
+Keyword: foreign policy	score: 3.5
+Keyword: false choice	score: 3.5
+Keyword: comprehensive plan	score: 3.5
+Keyword: started putting	score: 3.5
+Keyword: army units	score: 3.5
+Keyword: heavy lifting	score: 3.5
+Keyword: houseâclinton	score: 3.48823529412
+Keyword: real problem	score: 3.48214285714
+Keyword: eliminate isis	score: 3.48148148148
+Keyword: isis spreading	score: 3.48148148148
+Keyword: make today	score: 3.47619047619
+Keyword: big multi	score: 3.45238095238
+Keyword: ranging conversation	score: 3.44444444444
+Keyword: realistic conversation	score: 3.44444444444
+Keyword: conversation interview	score: 3.44444444444
+Keyword: real question	score: 3.4126984127
+Keyword: pull back	score: 3.40476190476
+Keyword: back seat	score: 3.40476190476
+Keyword: stay back	score: 3.40476190476
+Keyword: made common	score: 3.4
+Keyword: making common	score: 3.4
+Keyword: real people	score: 3.4
+Keyword: personal contact	score: 3.4
+Keyword: remarkable life	score: 3.4
+Keyword: world order	score: 3.4
+Keyword: move virtually	score: 3.4
+Keyword: personal stories	score: 3.4
+Keyword: thousand world	score: 3.4
+Keyword: president disagree	score: 3.39130434783
+Keyword: money overseas	score: 3.375
+Keyword: national effort	score: 3.375
+Keyword: nuclearâclinton	score: 3.37394957983
+Keyword: great question	score: 3.35555555556
+Keyword: âhillary clinton	score: 3.33823529412
+Keyword: hillary clinton	score: 3.33823529412
+Keyword: important aspect	score: 3.33333333333
+Keyword: remove syria	score: 3.33333333333
+Keyword: nice lady	score: 3.33333333333
+Keyword: 00 phone call	score: 3.33333333333
+Keyword: wonderful place	score: 3.33333333333
+Keyword: important piece	score: 3.33333333333
+Keyword: minimum wage	score: 3.33333333333
+Keyword: safe haven	score: 3.33333333333
+Keyword: move back	score: 3.30476190476
+Keyword: gulf partners	score: 3.3
+Keyword: stop demonizing	score: 3.28571428571
+Keyword: giant multi	score: 3.28571428571
+Keyword: money back	score: 3.27976190476
+Keyword: successful free	score: 3.25
+Keyword: show respect	score: 3.25
+Keyword: southern europeans	score: 3.25
+Keyword: global reach	score: 3.25
+Keyword: mill level	score: 3.25
+Keyword: europe suffering	score: 3.25
+Keyword: big deal	score: 3.24358974359
+Keyword: pushed back	score: 3.2380952381
+Keyword: term challenges	score: 3.2380952381
+Keyword: russians invade	score: 3.22222222222
+Keyword: ll bring	score: 3.2
+Keyword: threatening assad	score: 3.2
+Keyword: continue maneuvering	score: 3.2
+Keyword: york company	score: 3.2
+Keyword: long struggle	score: 3.2
+Keyword: real threat	score: 3.19047619048
+Keyword: powersârose	score: 3.17293233083
+Keyword: dividendsârose	score: 3.17293233083
+Keyword: minusârose	score: 3.17293233083
+Keyword: people coming	score: 3.16785714286
+Keyword: pronged approach	score: 3.16666666667
+Keyword: sunnis involved	score: 3.16666666667
+Keyword: broader perspective	score: 3.16666666667
+Keyword: taking place	score: 3.16666666667
+Keyword: national coalition	score: 3.15
+Keyword: people pay	score: 3.14285714286
+Keyword: give kudos	score: 3.14285714286
+Keyword: terrible sense	score: 3.14285714286
+Keyword: fighting force	score: 3.13333333333
+Keyword: vote coming	score: 3.125
+Keyword: forces agreement	score: 3.0989010989
+Keyword: good president	score: 3.09130434783
+Keyword: years ago	score: 3.09090909091
+Keyword: small country	score: 3.08333333333
+Keyword: hard line	score: 3.08333333333
+Keyword: military defeat	score: 3.06666666667
+Keyword: president thinks	score: 3.05797101449
+Keyword: smart people	score: 3.04285714286
+Keyword: takes money	score: 3.04166666667
+Keyword: lot invested	score: 3.0303030303
+Keyword: effort dealing	score: 3.025
+Keyword: takes time	score: 3.01960784314
+Keyword: sounds easy	score: 3.0
+Keyword: recommend	score: 3.0
+Keyword: basically paid	score: 3.0
+Keyword: strong position	score: 3.0
+Keyword: quit bombing	score: 3.0
+Keyword: top 20 airports	score: 3.0
+Keyword: takes place	score: 3.0
+Keyword: diplomatic efforts	score: 3.0
+Keyword: isis leadership	score: 2.98148148148
+Keyword: make education	score: 2.97619047619
+Keyword: quickly make	score: 2.97619047619
+Keyword: trade agreement	score: 2.94017094017
+Keyword: broader region	score: 2.91666666667
+Keyword: job dealing	score: 2.9
+Keyword: russians involved	score: 2.88888888889
+Keyword: defeat isis	score: 2.88148148148
+Keyword: make coalition	score: 2.87619047619
+Keyword: long process	score: 2.86666666667
+Keyword: bush administration	score: 2.85
+Keyword: militaryârose	score: 2.83959899749
+Keyword: paris change	score: 2.83333333333
+Keyword: baghdad government	score: 2.83333333333
+Keyword: situation room	score: 2.83333333333
+Keyword: important details	score: 2.83333333333
+Keyword: controls territory	score: 2.83333333333
+Keyword: isis territory	score: 2.81481481481
+Keyword: raise americans	score: 2.80952380952
+Keyword: stop hundreds	score: 2.78571428571
+Keyword: problem charlie	score: 2.75
+Keyword: prevent iran	score: 2.75
+Keyword: respect sunnis	score: 2.75
+Keyword: working people	score: 2.74285714286
+Keyword: middle	score: 2.72727272727
+Keyword: money home	score: 2.70833333333
+Keyword: chinese government	score: 2.7
+Keyword: ll find	score: 2.7
+Keyword: protect benghazi	score: 2.7
+Keyword: political work	score: 2.68181818182
+Keyword: build america	score: 2.68181818182
+Keyword: fight isis	score: 2.68148148148
+Keyword: toughârose	score: 2.67293233083
+Keyword: ground doesn	score: 2.66666666667
+Keyword: important issue	score: 2.66666666667
+Keyword: cutting	score: 2.66666666667
+Keyword: life support	score: 2.65

@@ -1,0 +1,72 @@
+
+Keyword: rising prescription drug costs	score: 15.0
+Keyword: american presidency projectpromote	score: 9.0
+Keyword: dying breed anymore â	score: 9.0
+Keyword: open heart surgery	score: 9.0
+Keyword: seemingly polarized nation	score: 9.0
+Keyword: affected â unexpected challenge	score: 9.0
+Keyword: senator lindsey graham	score: 9.0
+Keyword: health insurance program	score: 8.5
+Keyword: reach common ground	score: 7.5
+Keyword: affordable care act	score: 7.5
+Keyword: incomes rising	score: 5.0
+Keyword: common ground	score: 4.5
+Keyword: health care	score: 4.5
+Keyword: affordable college	score: 4.5
+Keyword: incredible thing	score: 4.0
+Keyword: liberal republican â	score: 4.0
+Keyword: years ago	score: 4.0
+Keyword: proved successful	score: 4.0
+Keyword: real sense	score: 4.0
+Keyword: national guard	score: 4.0
+Keyword: democratic politics	score: 4.0
+Keyword: tight race	score: 4.0
+Keyword: foster care	score: 4.0
+Keyword: adoption system	score: 4.0
+Keyword: partisan congress	score: 4.0
+Keyword: similar efforts	score: 4.0
+Keyword: young woman	score: 4.0
+Keyword: tom delay	score: 4.0
+Keyword: past weekend	score: 4.0
+Keyword: student debt	score: 4.0
+Keyword: single republican	score: 4.0
+Keyword: partisan republican	score: 4.0
+Keyword: john kasich	score: 3.66666666667
+Keyword: great operation	score: 3.66666666667
+Keyword: white house	score: 3.66666666667
+Keyword: jonathan karl	score: 3.66666666667
+Keyword: important day	score: 3.5
+Keyword: victory party	score: 3.5
+Keyword: busy day	score: 3.5
+Keyword: ve spent	score: 3.5
+Keyword: ve covered	score: 3.5
+Keyword: work bipartisanly	score: 3.5
+Keyword: energized effort	score: 3.5
+Keyword: caucus process	score: 3.5
+Keyword: hillary clinton	score: 3.5
+Keyword: lessons learned	score: 3.5
+Keyword: john karl	score: 3.33333333333
+Keyword: give voters	score: 3.33333333333
+Keyword: secretary clinton	score: 3.16666666667
+Keyword: young people	score: 3.14285714286
+Keyword: great question	score: 3.06666666667
+Keyword: make progress	score: 3.0
+Keyword: good morning	score: 3.0
+Keyword: good question	score: 2.9
+Keyword: ve worked	score: 2.9
+Keyword: country working	score: 2.83333333333
+Keyword: worked hard	score: 2.73333333333
+Keyword: ground	score: 2.0
+Keyword: care	score: 2.0
+Keyword: secretary	score: 1.66666666667
+Keyword: house	score: 1.66666666667
+Keyword: john	score: 1.66666666667
+Keyword: great	score: 1.66666666667
+Keyword: karl	score: 1.66666666667
+Keyword: â clinton	score: 1.5
+Keyword: good	score: 1.5
+Keyword: party â	score: 1.5
+Keyword: morning	score: 1.5
+Keyword: progress	score: 1.5
+Keyword: learned	score: 1.5
+Keyword: caucus	score: 1.5

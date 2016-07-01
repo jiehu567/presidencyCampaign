@@ -1,0 +1,140 @@
+
+Keyword: older male pundits suggested	score: 14.0
+Keyword: american presidency projectpromote	score: 9.0
+Keyword: supreme court decisions	score: 9.0
+Keyword: shadow banking industry	score: 8.5
+Keyword: hampshire primaries coming	score: 8.0
+Keyword: affordable care act	score: 8.0
+Keyword: entire financial industry	score: 8.0
+Keyword: comprehensive health screenings	score: 8.0
+Keyword: good news coming	score: 7.83333333333
+Keyword: protect vulnerable women	score: 7.66666666667
+Keyword: protect child support	score: 7.66666666667
+Keyword: amazing learning experience	score: 7.5
+Keyword: biggest job interview	score: 7.1
+Keyword: federal epa knew	score: 6.75
+Keyword: effective campaign plan	score: 6.54166666667
+Keyword: bernie sanders doesn	score: 6.3
+Keyword: male pundits	score: 6.0
+Keyword: bad bankruptcy bill	score: 5.9
+Keyword: protect women	score: 4.66666666667
+Keyword: banking interests	score: 4.5
+Keyword: breaking news	score: 4.5
+Keyword: good luck	score: 4.33333333333
+Keyword: good spirits	score: 4.33333333333
+Keyword: federal payment	score: 4.25
+Keyword: federal responsibility	score: 4.25
+Keyword: job interview	score: 4.1
+Keyword: bush administration	score: 4.0
+Keyword: husband staged	score: 4.0
+Keyword: lasting consequences	score: 4.0
+Keyword: constantly evaluating	score: 4.0
+Keyword: lady lobbying	score: 4.0
+Keyword: deregulate swaps	score: 4.0
+Keyword: respective plans	score: 4.0
+Keyword: nutritional support	score: 4.0
+Keyword: public records	score: 4.0
+Keyword: acceptable level	score: 4.0
+Keyword: dramatically altering	score: 4.0
+Keyword: sounding alarms	score: 4.0
+Keyword: government isn	score: 4.0
+Keyword: great recession	score: 4.0
+Keyword: voting rights	score: 4.0
+Keyword: key reasons	score: 4.0
+Keyword: highest regard	score: 4.0
+Keyword: heart procedure	score: 4.0
+Keyword: local level	score: 4.0
+Keyword: long history	score: 4.0
+Keyword: republican side	score: 4.0
+Keyword: town hall	score: 4.0
+Keyword: lehman brothers	score: 4.0
+Keyword: defense fund	score: 4.0
+Keyword: emergency means	score: 4.0
+Keyword: raising incomes	score: 4.0
+Keyword: senators stabenow	score: 4.0
+Keyword: mayor asked	score: 4.0
+Keyword: highest priority	score: 4.0
+Keyword: mortgage markets	score: 4.0
+Keyword: 500 times higher	score: 4.0
+Keyword: human history	score: 4.0
+Keyword: absolutely investigated	score: 4.0
+Keyword: popular theme	score: 4.0
+Keyword: asthma rates	score: 4.0
+Keyword: federal issue	score: 3.91666666667
+Keyword: positive campaign	score: 3.875
+Keyword: campaign sends	score: 3.875
+Keyword: campaign trail	score: 3.875
+Keyword: bad provision	score: 3.75
+Keyword: madam secretary	score: 3.75
+Keyword: state knew	score: 3.75
+Keyword: sanders campaign	score: 3.675
+Keyword: economy works	score: 3.66666666667
+Keyword: economy isn	score: 3.66666666667
+Keyword: elizabeth warren	score: 3.66666666667
+Keyword: record straight	score: 3.66666666667
+Keyword: broad set	score: 3.66666666667
+Keyword: horrible set	score: 3.66666666667
+Keyword: people focusing	score: 3.5
+Keyword: big discussion	score: 3.5
+Keyword: premier problem	score: 3.5
+Keyword: double standard	score: 3.5
+Keyword: people deserve	score: 3.5
+Keyword: realize anger	score: 3.5
+Keyword: big deal	score: 3.5
+Keyword: money paying	score: 3.5
+Keyword: intervene early	score: 3.5
+Keyword: artistic smear	score: 3.5
+Keyword: hampshire primary	score: 3.5
+Keyword: citizens united â	score: 3.5
+Keyword: people riled	score: 3.5
+Keyword: bit excited	score: 3.5
+Keyword: affecting people	score: 3.5
+Keyword: bankruptcy bill	score: 3.4
+Keyword: lead poisoning	score: 3.375
+Keyword: lead paint	score: 3.375
+Keyword: telling voters	score: 3.33333333333
+Keyword: infrastructure built	score: 3.33333333333
+Keyword: pushed hard	score: 3.33333333333
+Keyword: permanent damage	score: 3.33333333333
+Keyword: senator sanders	score: 3.3
+Keyword: children face	score: 3.28571428571
+Keyword: young children	score: 3.28571428571
+Keyword: democratic debate	score: 3.25
+Keyword: talk soft	score: 3.25
+Keyword: kids suffered	score: 3.2
+Keyword: senator warren	score: 3.16666666667
+Keyword: visit flint	score: 3.125
+Keyword: hillary clinton	score: 3.09090909091
+Keyword: people hey	score: 3.0
+Keyword: people feel	score: 3.0
+Keyword: state issue	score: 2.91666666667
+Keyword: secretary clinton	score: 2.84090909091
+Keyword: president changed	score: 2.66666666667
+Keyword: women	score: 2.0
+Keyword: hampshire	score: 2.0
+Keyword: financial	score: 2.0
+Keyword: health	score: 2.0
+Keyword: care	score: 2.0
+Keyword: support	score: 2.0
+Keyword: epa	score: 2.0
+Keyword: bankruptcy	score: 2.0
+Keyword: campaign	score: 1.875
+Keyword: sanders	score: 1.8
+Keyword: secretary	score: 1.75
+Keyword: economy	score: 1.66666666667
+Keyword: warren	score: 1.66666666667
+Keyword: issue	score: 1.66666666667
+Keyword: plan	score: 1.66666666667
+Keyword: set	score: 1.66666666667
+Keyword: record	score: 1.66666666667
+Keyword: job	score: 1.6
+Keyword: experience	score: 1.5
+Keyword: discussion	score: 1.5
+Keyword: standard	score: 1.5
+Keyword: feel	score: 1.5
+Keyword: primary	score: 1.5
+Keyword: anger	score: 1.5
+Keyword: senator	score: 1.5
+Keyword: money	score: 1.5
+Keyword: early	score: 1.5
+Keyword: bit	score: 1.5

@@ -1,0 +1,253 @@
+
+Keyword: vice provost jonathan bagger pointed	score: 25.0
+Keyword: manhattan borough president gale brewer	score: 22.4
+Keyword: reform arbitrary mandatory minimum sentences	score: 22.3333333333
+Keyword: fault lines laid bare	score: 16.0
+Keyword: unjust federal sentencing disparity	score: 15.0
+Keyword: substance abuse sweeping small	score: 13.5
+Keyword: powder cocaine crimes finally	score: 13.0
+Keyword: put mental health back	score: 12.0333333333
+Keyword: jersey state prison costs $44	score: 11.75
+Keyword: roughly 60 percent face long	score: 10.6666666667
+Keyword: 2 million americans incarcerated today	score: 10.1666666667
+Keyword: downtown office buildings	score: 9.0
+Keyword: marian wright edelman	score: 9.0
+Keyword: walter scott shot	score: 9.0
+Keyword: overcome deep divisions	score: 9.0
+Keyword: emerging bipartisan consensus	score: 9.0
+Keyword: simply awaiting trial	score: 9.0
+Keyword: eric garner choked	score: 9.0
+Keyword: wonderful wife joyce	score: 9.0
+Keyword: tamir rice shot	score: 9.0
+Keyword: mental health patients	score: 8.83333333333
+Keyword: mental health institutions	score: 8.83333333333
+Keyword: drug diversion programs	score: 8.75
+Keyword: 5 million black men	score: 8.59523809524
+Keyword: true national debate	score: 8.5
+Keyword: demand fresh thinking	score: 8.5
+Keyword: longtime friends catching	score: 8.5
+Keyword: legal aid clinic	score: 8.5
+Keyword: growing bipartisan movement	score: 8.5
+Keyword: leadership helped lay	score: 8.5
+Keyword: term criminal activity	score: 8.375
+Keyword: local governments investing	score: 8.33333333333
+Keyword: mental health facilities	score: 8.33333333333
+Keyword: start small businesses	score: 8.3
+Keyword: minor drug crimes	score: 8.25
+Keyword: specialized drug courts	score: 8.25
+Keyword: american presidency projectpromote	score: 8.25
+Keyword: greatest public servants	score: 8.25
+Keyword: criminal justice systems	score: 8.20833333333
+Keyword: correctional expenditures back	score: 8.2
+Keyword: good sounding boards	score: 8.16666666667
+Keyword: justice system undermine	score: 8.08333333333
+Keyword: pursue alternative punishments	score: 8.0
+Keyword: based treatment centers	score: 8.0
+Keyword: johns hopkins university	score: 8.0
+Keyword: deliver real reforms	score: 8.0
+Keyword: criminal justice system	score: 7.95833333333
+Keyword: young black man	score: 7.95238095238
+Keyword: attorney general holder	score: 7.83333333333
+Keyword: womenâwhite women	score: 7.83333333333
+Keyword: high school educationâ	score: 7.8
+Keyword: millions fewer people	score: 7.76923076923
+Keyword: black men face	score: 7.7619047619
+Keyword: african american men	score: 7.67857142857
+Keyword: provide economic opportunity	score: 7.66666666667
+Keyword: day inspiring trust	score: 7.625
+Keyword: average life expectancy	score: 7.5
+Keyword: losing life expectancy	score: 7.5
+Keyword: united states brought	score: 7.5
+Keyword: important additional steps	score: 7.5
+Keyword: juvenile programs work	score: 7.5
+Keyword: young black men	score: 7.38095238095
+Keyword: public policy forum	score: 7.25
+Keyword: life cut short	score: 7.0
+Keyword: law enforcement leaders	score: 6.8
+Keyword: david dinkins warned	score: 6.79166666667
+Keyword: total prison population	score: 6.75
+Keyword: longer prison terms	score: 6.75
+Keyword: child support payments	score: 6.66666666667
+Keyword: brave police officers	score: 6.65
+Keyword: local law enforcement	score: 6.63333333333
+Keyword: country lifting people	score: 6.06923076923
+Keyword: substance abuse	score: 6.0
+Keyword: today smart policing	score: 5.86666666667
+Keyword: mental health	score: 5.83333333333
+Keyword: protect good people	score: 5.4358974359
+Keyword: black women	score: 5.33333333333
+Keyword: legal system	score: 5.25
+Keyword: drug crimes	score: 5.25
+Keyword: criminal justice	score: 5.20833333333
+Keyword: black men	score: 5.09523809524
+Keyword: justice system	score: 5.08333333333
+Keyword: federal funds	score: 5.0
+Keyword: attorney general	score: 4.83333333333
+Keyword: mental illness	score: 4.83333333333
+Keyword: young men	score: 4.71428571429
+Keyword: dinkins leadership	score: 4.66666666667
+Keyword: young attorney	score: 4.61904761905
+Keyword: white counterparts	score: 4.5
+Keyword: national agenda	score: 4.5
+Keyword: remaining facilities	score: 4.5
+Keyword: backlogged courts	score: 4.5
+Keyword: term unemployment	score: 4.5
+Keyword: life expectancy	score: 4.5
+Keyword: united states	score: 4.5
+Keyword: president obama	score: 4.4
+Keyword: president bollinger	score: 4.4
+Keyword: law enforcement	score: 4.3
+Keyword: start thinking	score: 4.3
+Keyword: young lawyer	score: 4.28571428571
+Keyword: great friends	score: 4.25
+Keyword: public affairs	score: 4.25
+Keyword: setting back	score: 4.2
+Keyword: smart strategies	score: 4.2
+Keyword: smart policing	score: 4.2
+Keyword: community leaders	score: 4.07142857143
+Keyword: young people	score: 4.05494505495
+Keyword: commonsense step	score: 4.0
+Keyword: considerably older	score: 4.0
+Keyword: loretta lynch	score: 4.0
+Keyword: effective strategies	score: 4.0
+Keyword: grab headlines	score: 4.0
+Keyword: rand paul	score: 4.0
+Keyword: significant percentage	score: 4.0
+Keyword: political spectrum	score: 4.0
+Keyword: selling cigarettes	score: 4.0
+Keyword: record interactions	score: 4.0
+Keyword: greater emphasis	score: 4.0
+Keyword: cory booker	score: 4.0
+Keyword: decades ago	score: 4.0
+Keyword: quiet epidemic	score: 4.0
+Keyword: commonsense reforms	score: 4.0
+Keyword: recent tragedies	score: 4.0
+Keyword: early pioneer	score: 4.0
+Keyword: heart breaks	score: 4.0
+Keyword: freddie gray	score: 4.0
+Keyword: rising prices	score: 4.0
+Keyword: recommendations offer	score: 4.0
+Keyword: devise approaches	score: 4.0
+Keyword: long overdue	score: 4.0
+Keyword: positive effects	score: 4.0
+Keyword: bring home	score: 4.0
+Keyword: remained invisible	score: 4.0
+Keyword: homes shattered	score: 4.0
+Keyword: reading correctly	score: 4.0
+Keyword: educational chances	score: 4.0
+Keyword: congenital optimist	score: 4.0
+Keyword: hard truths	score: 4.0
+Keyword: michael brown	score: 4.0
+Keyword: matching funds	score: 4.0
+Keyword: shattered glass	score: 4.0
+Keyword: level offenders	score: 4.0
+Keyword: collective efforts	score: 4.0
+Keyword: remain nameless	score: 4.0
+Keyword: violating parole	score: 4.0
+Keyword: magnificent hall	score: 4.0
+Keyword: dick durbin	score: 4.0
+Keyword: life matters	score: 4.0
+Keyword: trayvon martin	score: 4.0
+Keyword: fast track	score: 4.0
+Keyword: deploying creative	score: 4.0
+Keyword: smoke fills	score: 4.0
+Keyword: south carolina	score: 4.0
+Keyword: permit discussions	score: 4.0
+Keyword: serve breaks	score: 4.0
+Keyword: measuring success	score: 4.0
+Keyword: indelible impact	score: 4.0
+Keyword: distinguished panel	score: 4.0
+Keyword: annual tuition	score: 4.0
+Keyword: disagree politically	score: 4.0
+Keyword: historic lows	score: 4.0
+Keyword: give speeches	score: 4.0
+Keyword: absolutely delighted	score: 4.0
+Keyword: lasting prosperity	score: 4.0
+Keyword: bold action	score: 4.0
+Keyword: dean janow	score: 4.0
+Keyword: renewed focus	score: 4.0
+Keyword: shared vision	score: 4.0
+Keyword: defense fund	score: 4.0
+Keyword: single inmate	score: 4.0
+Keyword: builds relationships	score: 4.0
+Keyword: staten island	score: 4.0
+Keyword: single child	score: 4.0
+Keyword: mike lee	score: 4.0
+Keyword: bonuses handed	score: 4.0
+Keyword: failing schools	score: 4.0
+Keyword: depleted reservoirs	score: 4.0
+Keyword: long neglected	score: 4.0
+Keyword: defense fundâ	score: 4.0
+Keyword: hollins market	score: 4.0
+Keyword: ring truer	score: 4.0
+Keyword: dramatic drops	score: 4.0
+Keyword: budget reasons	score: 4.0
+Keyword: improve transparency	score: 4.0
+Keyword: smart people	score: 3.96923076923
+Keyword: police department	score: 3.9
+Keyword: police custody	score: 3.9
+Keyword: police officer	score: 3.9
+Keyword: police departments	score: 3.9
+Keyword: good jobs	score: 3.83333333333
+Keyword: law schools	score: 3.8
+Keyword: start understanding	score: 3.8
+Keyword: incarceration generation	score: 3.8
+Keyword: mass incarceration	score: 3.8
+Keyword: arkansas school	score: 3.8
+Keyword: excessive incarceration	score: 3.8
+Keyword: david dinkins	score: 3.79166666667
+Keyword: children growing	score: 3.77272727273
+Keyword: people held	score: 3.76923076923
+Keyword: prison population	score: 3.75
+Keyword: missing husbands	score: 3.75
+Keyword: missing brothers	score: 3.75
+Keyword: great privilege	score: 3.75
+Keyword: prison inmates	score: 3.75
+Keyword: parole officers	score: 3.75
+Keyword: task force	score: 3.66666666667
+Keyword: earliest jobs	score: 3.66666666667
+Keyword: unnecessary force	score: 3.66666666667
+Keyword: usa today	score: 3.66666666667
+Keyword: fellow citizens	score: 3.66666666667
+Keyword: numbers today	score: 3.66666666667
+Keyword: front page	score: 3.66666666667
+Keyword: body cameras	score: 3.66666666667
+Keyword: good work	score: 3.66666666667
+Keyword: good place	score: 3.66666666667
+Keyword: mayor dinkins	score: 3.66666666667
+Keyword: police officers	score: 3.65
+Keyword: trust makes	score: 3.625
+Keyword: restore trust	score: 3.625
+Keyword: restoring trust	score: 3.625
+Keyword: prevent crime	score: 3.6
+Keyword: law schoolâ	score: 3.6
+Keyword: fight crime	score: 3.6
+Keyword: american city	score: 3.58333333333
+Keyword: entire community	score: 3.57142857143
+Keyword: community benefits	score: 3.57142857143
+Keyword: community policing	score: 3.57142857143
+Keyword: painful times	score: 3.5
+Keyword: emergency care	score: 3.5
+Keyword: work hard	score: 3.5
+Keyword: stay afloat	score: 3.5
+Keyword: stay clean	score: 3.5
+Keyword: buy weapons	score: 3.5
+Keyword: roland park	score: 3.5
+Keyword: lives unnecessarily	score: 3.5
+Keyword: deal swiftly	score: 3.5
+Keyword: special treat	score: 3.5
+Keyword: lost amidst	score: 3.5
+Keyword: miles separate	score: 3.5
+Keyword: measure prosperity	score: 3.5
+Keyword: tragedy caught	score: 3.5
+Keyword: inaugural address	score: 3.5
+Keyword: pipeline issues	score: 3.5
+Keyword: approach punishment	score: 3.5
+Keyword: find ways	score: 3.5
+Keyword: republicans agree	score: 3.5
+Keyword: restore balance	score: 3.4
+Keyword: respect frayed	score: 3.4
+Keyword: due respect	score: 3.4
+Keyword: years ago	score: 3.375
+Keyword: 40 years ago	score: 3.375
+Keyword: past years	score: 3.375
